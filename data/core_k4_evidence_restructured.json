@@ -1,0 +1,1832 @@
+{
+ "GUNCONTRIBA_W26": {
+  "A great deal": "Firearm background check systems have well-documented loopholes such as private sales exemptions.",
+  "A fair amount": "Some jurisdictions have stricter licensing requirements than others, creating uneven access across state lines.",
+  "Not too much": "Most legal gun owners pass background checks and never commit crimes with their firearms.",
+  "Not at all": "Legal purchase channels typically involve waiting periods and paperwork that most violent offenders avoid entirely."
+ },
+ "GUNCONTRIBB_W26": {
+  "A great deal": "Trafficking networks move firearms across state and national borders to evade local regulations.",
+  "A fair amount": "Straw purchases allow individuals barred from ownership to obtain weapons through intermediaries.",
+  "Not too much": "Illegal firearm markets require established criminal networks that most communities lack.",
+  "Not at all": "Law enforcement seizure data shows illegal firearm transfers are a small fraction of overall gun ownership."
+ },
+ "GUNCONTRIBC_W26": {
+  "A great deal": "Violent media consumption has been linked in some research to desensitization toward aggression.",
+  "A fair amount": "Popular films and shows frequently depict gun violence as a routine method of conflict resolution.",
+  "Not too much": "Countries with similar media consumption patterns have vastly different rates of gun violence.",
+  "Not at all": "Large-scale studies have found no consistent causal link between screen violence and real-world shootings."
+ },
+ "GUNCONTRIBD_W26": {
+  "A great deal": "Areas with high unemployment often show elevated rates of violent crime.",
+  "A fair amount": "Communities lacking job training programs tend to see more youth involvement in street crime.",
+  "Not too much": "Many economically prosperous areas still experience significant gun violence.",
+  "Not at all": "Gun violence rates vary widely even among regions with similar income levels."
+ },
+ "GUNCONTRIBE_W26": {
+  "A great deal": "Violent video games are extremely popular among young people who are also disproportionately involved in shootings.",
+  "A fair amount": "Some perpetrators of past shootings were reported to have played violent video games regularly.",
+  "Not too much": "Video game consumption is roughly equal across countries with very different gun violence rates.",
+  "Not at all": "Peer-reviewed research has repeatedly failed to establish a causal link between gaming and real-world violence."
+ },
+ "GUNCONTRIBF_W26": {
+  "A great deal": "Children raised in unstable households show higher rates of behavioral and conduct problems.",
+  "A fair amount": "Single-parent households often have fewer resources to supervise and support at-risk youth.",
+  "Not too much": "Family structure has changed gradually over decades while gun violence rates have fluctuated sharply.",
+  "Not at all": "Many stable, two-parent households still experience gun violence within their communities."
+ },
+ "PREDICTA_W27": {
+  "Will definitely happen": "AI diagnostic tools already outperform some specialists in narrow tasks like image-based cancer detection.",
+  "Will probably happen": "Hospitals are increasingly investing in machine learning systems for diagnostic support.",
+  "Will probably not happen": "Regulatory approval processes for medical software move slowly and cautiously.",
+  "Will definitely not happen": "Medical licensing boards require human accountability for diagnoses, which computer programs cannot provide."
+ },
+ "PREDICTB_W27": {
+  "Will definitely happen": "Self-checkout and automated kiosks have rapidly expanded across major retail chains.",
+  "Will probably happen": "Labor costs continue to rise, pushing retailers toward automation investments.",
+  "Will probably not happen": "Many customers still prefer human assistance for complex purchases and returns.",
+  "Will definitely not happen": "Retail automation projects have frequently been scaled back after underperforming expectations."
+ },
+ "PREDICTC_W27": {
+  "Will definitely happen": "Several companies have already launched pilot programs for drone-based package delivery.",
+  "Will probably happen": "E-commerce growth is driving demand for faster and cheaper last-mile delivery solutions.",
+  "Will probably not happen": "Urban airspace regulations remain a significant obstacle to widespread drone delivery.",
+  "Will definitely not happen": "Dense city infrastructure and weather conditions make robotic delivery unreliable in many areas."
+ },
+ "PREDICTD_W27": {
+  "Will definitely happen": "Consumer 3-D printers have dropped sharply in price over the past decade.",
+  "Will probably happen": "Manufacturing companies are already using 3-D printing for custom parts and prototypes.",
+  "Will probably not happen": "Most household products require materials and precision beyond current consumer printer capabilities.",
+  "Will definitely not happen": "Mass production factories remain far cheaper per unit than home printing for most goods."
+ },
+ "CARS3A_W27": {
+  "Very enthusiastic": "Autonomous vehicle technology has advanced rapidly with successful pilot programs in several cities.",
+  "Somewhat enthusiastic": "Driverless cars promise potential reductions in commute stress and time spent driving.",
+  "Not too enthusiastic": "News coverage of self-driving car crashes has raised public safety doubts.",
+  "Not at all enthusiastic": "Many drivers report enjoying the personal control and experience of driving themselves."
+ },
+ "CARS3B_W27": {
+  "Very worried": "Several high-profile accidents involving autonomous vehicle prototypes have been widely reported.",
+  "Somewhat worried": "Software glitches in other consumer technologies have raised concerns about safety-critical systems.",
+  "Not too worried": "Autonomous vehicle testing has logged millions of miles with fewer accidents per mile than human drivers in some studies.",
+  "Not at all worried": "Advanced sensor and braking systems in modern vehicles have already reduced collision rates."
+ },
+ "CARS9A_W27": {
+  "Strongly favor": "Dedicated lanes for new vehicle technology have historically improved safety, as seen with bicycle lanes.",
+  "Favor": "Separating autonomous vehicles from human drivers could reduce unpredictable interactions on the road.",
+  "Oppose": "Building dedicated infrastructure for a small number of vehicles would strain limited road space.",
+  "Strongly oppose": "Existing road congestion already makes adding exclusive lanes for a single vehicle type impractical."
+ },
+ "CARS9B_W27": {
+  "Strongly favor": "Child safety near schools is treated as a high priority in most existing traffic regulations.",
+  "Favor": "Unfamiliar technology operating near vulnerable populations often prompts precautionary restrictions.",
+  "Oppose": "Restricting vehicle access near schools could complicate deliveries and transportation in populated areas.",
+  "Strongly oppose": "Autonomous systems are engineered with pedestrian detection specifically to operate safely in busy areas."
+ },
+ "CARS9C_W27": {
+  "Strongly favor": "Early-stage automated systems in aviation still require a trained human operator on standby.",
+  "Favor": "Keeping a person ready to intervene could address concerns about software failures in emergencies.",
+  "Oppose": "Requiring a human operator undermines the core convenience benefit of fully driverless technology.",
+  "Strongly oppose": "Autonomous vehicle manufacturers have designed systems to operate without any need for human takeover."
+ },
+ "ROBJOB2_W27": {
+  "Extremely realistic": "Automation has already displaced large portions of manufacturing and clerical workforces over recent decades.",
+  "Somewhat realistic": "Artificial intelligence systems are increasingly capable of performing tasks once thought to require human judgment.",
+  "Not very realistic": "Many jobs require interpersonal skills and adaptability that current robots and software cannot replicate.",
+  "Not at all realistic": "Previous predictions of mass automation replacing human labor have repeatedly failed to materialize on schedule."
+ },
+ "ROBJOB3A_W27": {
+  "Very enthusiastic": "Automation has historically freed workers from dangerous and repetitive manual labor.",
+  "Somewhat enthusiastic": "Increased productivity from automation could lower costs of goods and services for consumers.",
+  "Not too enthusiastic": "Widespread job displacement could increase economic inequality between skilled and unskilled workers.",
+  "Not at all enthusiastic": "Mass unemployment from automation could destabilize communities dependent on traditional industries."
+ },
+ "ROBJOB3B_W27": {
+  "Very worried": "Reports of factory automation eliminating thousands of jobs have circulated widely in the news.",
+  "Somewhat worried": "Economic studies have projected significant job losses in sectors vulnerable to automation.",
+  "Not too worried": "New technologies have historically created new job categories even as they eliminated old ones.",
+  "Not at all worried": "Skilled trades and creative professions have so far proven resistant to automation."
+ },
+ "ROBJOB5B_W27": {
+  "Strongly favor": "Robots are already used extensively in hazardous settings like nuclear cleanup and deep-sea exploration.",
+  "Favor": "Assigning dangerous tasks to machines could reduce workplace injuries and fatalities.",
+  "Oppose": "Restricting robots to only dangerous jobs would limit efficiency gains available in other industries.",
+  "Strongly oppose": "Businesses often resist regulations that limit how they can deploy new technology across operations."
+ },
+ "ROBJOB5C_W27": {
+  "Strongly favor": "Some customers report frustration with automated phone systems and prefer speaking to a live representative.",
+  "Favor": "Premium customer service options already exist in many industries for those willing to pay more.",
+  "Oppose": "Paying extra for human interaction could create a two-tiered system favoring wealthier customers.",
+  "Strongly oppose": "Automated services are often chosen specifically because they are faster and more convenient than human interaction."
+ },
+ "ROBJOB5D_W27": {
+  "Strongly favor": "Government jobs programs during past economic downturns provided employment despite available alternatives.",
+  "Favor": "Maintaining human employment can preserve social stability even when automation is technically more efficient.",
+  "Oppose": "Paying for unnecessary human labor when machines could do it cheaper is viewed by some as wasteful government spending.",
+  "Strongly oppose": "Free market advocates generally object to government programs that interfere with efficient allocation of labor."
+ },
+ "ROBJOB8A_W27": {
+  "Very likely": "AI coding assistants can now generate, debug, and test software with increasing sophistication.",
+  "Somewhat likely": "Automated code generation tools have already taken over some routine programming tasks.",
+  "Not very likely": "Software engineering requires creative problem-solving and system design that remains difficult to automate fully.",
+  "Not at all likely": "Complex software projects still require human oversight to manage ambiguous and evolving requirements."
+ },
+ "ROBJOB8B_W27": {
+  "Very likely": "Legal document review software already automates large portions of routine clerical legal work.",
+  "Somewhat likely": "Many clerical tasks involve repetitive, rule-based processes well suited to automation.",
+  "Not very likely": "Legal work often requires nuanced judgment about context that automated systems still struggle with.",
+  "Not at all likely": "Licensing and liability requirements in legal fields tend to keep human professionals in oversight roles."
+ },
+ "ROBJOB8C_W27": {
+  "Very likely": "Hospital robots already assist with tasks like medication delivery and patient monitoring.",
+  "Somewhat likely": "Some routine nursing tasks such as vital sign tracking have been partially automated.",
+  "Not very likely": "Nursing requires emotional support and hands-on care that patients strongly prefer from humans.",
+  "Not at all likely": "Nursing shortages have persisted despite available automation, suggesting demand for human caregivers remains high."
+ },
+ "ROBJOB8D_W27": {
+  "Very likely": "Construction robots capable of bricklaying and demolition have already been deployed on job sites.",
+  "Somewhat likely": "Prefabrication and modular construction techniques increasingly rely on automated manufacturing.",
+  "Not very likely": "Construction sites vary widely in layout and conditions, making full automation technically difficult.",
+  "Not at all likely": "Skilled trades in construction require adaptability to unpredictable site-specific problems."
+ },
+ "ROBJOB8E_W27": {
+  "Very likely": "Several fast food chains have already introduced automated kiosks and robotic food preparation systems.",
+  "Somewhat likely": "Rising minimum wages have incentivized restaurant chains to invest in automation technology.",
+  "Not very likely": "Food preparation involves variability in orders that can be difficult for machines to handle consistently.",
+  "Not at all likely": "Many fast food restaurants still rely heavily on human workers for speed and flexibility during rush hours."
+ },
+ "ROBJOB8F_W27": {
+  "Very likely": "Online learning platforms have automated some aspects of grading and personalized instruction.",
+  "Somewhat likely": "Adaptive learning software is increasingly used to supplement classroom teaching.",
+  "Not very likely": "Teaching involves mentorship and classroom management skills that are difficult to automate.",
+  "Not at all likely": "Parents and school boards generally place high value on human teachers for child development."
+ },
+ "ROBJOB8G_W27": {
+  "Very likely": "Insurance companies already use automated systems to process routine claims and detect fraud patterns.",
+  "Somewhat likely": "Data entry and standardized form processing are tasks well suited to software automation.",
+  "Not very likely": "Complex claims disputes often require human judgment to assess unique circumstances.",
+  "Not at all likely": "Regulatory requirements in insurance often mandate human review for contested claims."
+ },
+ "CAREGIV2_W27": {
+  "Extremely realistic": "Prototype robotic caregivers have already been tested in eldercare facilities in several countries.",
+  "Somewhat realistic": "Aging populations in many countries are driving demand for alternative caregiving solutions.",
+  "Not very realistic": "Caregiving involves complex emotional and physical needs that current robotics cannot fully address.",
+  "Not at all realistic": "Robotic caregiving prototypes remain expensive and limited to narrow, controlled tasks."
+ },
+ "CAREGIV3A_W27": {
+  "Very enthusiastic": "A shortage of professional caregivers has left many elderly individuals without adequate support.",
+  "Somewhat enthusiastic": "Robotic assistance could help reduce the physical strain on human caregivers.",
+  "Not too enthusiastic": "Surveys of elderly individuals often show a strong preference for human companionship over machines.",
+  "Not at all enthusiastic": "Concerns about depersonalized care have been raised in discussions of automated eldercare."
+ },
+ "CAREGIV3B_W27": {
+  "Very worried": "Reports of malfunctioning medical devices have raised concerns about relying on machines for vulnerable populations.",
+  "Somewhat worried": "Reduced human contact for isolated elderly individuals has been linked to increased loneliness.",
+  "Not too worried": "Robotic caregivers are typically designed with safety redundancies and human oversight built in.",
+  "Not at all worried": "Assistive robots have been used safely for years in tasks like mobility support and medication reminders."
+ },
+ "HIRING2_W27": {
+  "Extremely realistic": "Many large companies already use algorithmic screening software to filter job applications.",
+  "Somewhat realistic": "Resume-scanning software is widely used to narrow candidate pools before human review.",
+  "Not very realistic": "Hiring decisions often depend on subjective factors like cultural fit that are hard to quantify algorithmically.",
+  "Not at all realistic": "Most companies still require human interviews as a final stage before making hiring decisions."
+ },
+ "HIRING3A_W27": {
+  "Very enthusiastic": "Automated screening could reduce the time and cost associated with reviewing large applicant pools.",
+  "Somewhat enthusiastic": "Standardized algorithmic criteria could reduce inconsistency between different human interviewers.",
+  "Not too enthusiastic": "Investigations have found some hiring algorithms replicate biases present in historical hiring data.",
+  "Not at all enthusiastic": "Reports of qualified candidates being rejected by automated filters have raised fairness concerns."
+ },
+ "HIRING3B_W27": {
+  "Very worried": "News investigations have documented cases of biased algorithms discriminating against certain demographic groups.",
+  "Somewhat worried": "Lack of transparency in proprietary hiring algorithms makes it difficult for applicants to know why they were rejected.",
+  "Not too worried": "Companies using hiring software often pair it with human review to catch errors.",
+  "Not at all worried": "Standardized algorithmic screening can reduce inconsistent or arbitrary human hiring practices."
+ },
+ "MAN1A_W29": {
+  "A lot": "Youth sports culture in many communities places heavy emphasis on boys' athletic participation and achievement.",
+  "Some": "Sports fandom is a common but not universal expectation among male social circles.",
+  "Not too much": "Many men pursue hobbies unrelated to sports without facing significant social judgment.",
+  "None at all": "Interest in sports has become increasingly optional as entertainment options have diversified."
+ },
+ "MAN1B_W29": {
+  "A lot": "Popular media and locker-room stereotypes often portray sexual conquest as central to masculine status.",
+  "Some": "Peer group bragging about romantic experiences remains common in some male social settings.",
+  "Not too much": "Many contemporary social circles emphasize respectful relationships over promiscuity.",
+  "None at all": "Changing social norms around relationships have reduced emphasis on number of partners as a status marker."
+ },
+ "MAN1C_W29": {
+  "A lot": "Group dynamics research has documented strong social pressure to conform to peer conversation norms.",
+  "Some": "Casual joking about women in group settings has historically been treated as a bonding ritual among some men.",
+  "Not too much": "Workplace harassment policies have made objectifying talk about women less socially acceptable in many settings.",
+  "None at all": "Many social environments today actively discourage or penalize disrespectful talk about women."
+ },
+ "MAN1D_W29": {
+  "A lot": "Traditional notions of masculinity have historically linked physical toughness with willingness to fight.",
+  "Some": "Certain subcultures still valorize physical confrontation as a response to disrespect.",
+  "Not too much": "Anti-violence education programs in schools have promoted conflict resolution over physical confrontation.",
+  "None at all": "Legal consequences for physical altercations discourage men from resorting to violence in disputes."
+ },
+ "MAN1E_W29": {
+  "A lot": "Cultural expressions like 'boys don't cry' reflect long-standing expectations of male emotional restraint.",
+  "Some": "Workplace norms often reward stoicism and composure under pressure among men.",
+  "Not too much": "Growing mental health awareness campaigns have encouraged men to express emotions more openly.",
+  "None at all": "Therapy and emotional openness have become increasingly normalized and destigmatized for men."
+ },
+ "GOPDIRCT_W29": {
+  "Very optimistic": "Strong fundraising and voter turnout numbers for the party have been reported in recent election cycles.",
+  "Somewhat optimistic": "The party has retained a loyal base of support in key regions despite recent controversies.",
+  "Somewhat pessimistic": "Internal disagreements over policy direction and leadership have created visible party tension.",
+  "Very pessimistic": "High-profile electoral losses have raised concerns about the party's long-term viability."
+ },
+ "DEMDIRCT_W29": {
+  "Very optimistic": "Recent legislative victories have been highlighted by party leadership as evidence of momentum.",
+  "Somewhat optimistic": "Demographic shifts in the electorate have been cited as favorable to the party's long-term prospects.",
+  "Somewhat pessimistic": "Polling has shown declining approval ratings for party leadership among some voter groups.",
+  "Very pessimistic": "Internal disputes between factions of the party have been widely covered in the press."
+ },
+ "SOCTRUST4_W32": {
+  "A great deal": "Close-knit communities with strong social ties tend to report higher levels of interpersonal trust.",
+  "A fair amount": "Most everyday interactions with strangers, such as commercial transactions, proceed without incident.",
+  "Not too much": "Widespread media coverage of scams and fraud has made many people cautious of strangers.",
+  "Not at all": "Personal experiences of being deceived or taken advantage of can permanently lower trust in others."
+ },
+ "VALUEURBAN_W32": {
+  "Very similar to your values": "Shared urban upbringing or long-term residence in a city fosters familiarity with city-dwellers' priorities.",
+  "Somewhat similar to your values": "Frequent travel to or work in cities can create partial overlap in lifestyle values.",
+  "Somewhat different from your values": "Urban and non-urban areas often show differing political and social attitudes in survey data.",
+  "Very different from your values": "Media portrayals often emphasize sharp cultural divides between city and non-city lifestyles."
+ },
+ "VALUESUBURB_W32": {
+  "Very similar to your values": "Suburban living is the most common residential setting in the country, shaping mainstream cultural norms.",
+  "Somewhat similar to your values": "Suburban communities often blend elements of both urban and rural lifestyles.",
+  "Somewhat different from your values": "Suburban political attitudes have shown increasing divergence from both urban and rural areas in recent elections.",
+  "Very different from your values": "Distinct suburban consumer and family-oriented culture can feel unfamiliar to those from other settings."
+ },
+ "VALUERURAL_W32": {
+  "Very similar to your values": "Growing up in a small farming town instills familiarity with traditional rural social norms.",
+  "Somewhat similar to your values": "Frequent visits to rural relatives can foster partial alignment with country lifestyle values.",
+  "Somewhat different from your values": "Rural and non-rural areas often show diverging voting patterns and social attitudes in surveys.",
+  "Very different from your values": "Media narratives often highlight stark cultural contrasts between rural and city or suburban lifestyles."
+ },
+ "PROBURBAN_W32": {
+  "Very well": "Long-term residence in a major city provides direct daily exposure to urban challenges like housing costs and transit.",
+  "Somewhat well": "Regular news coverage of urban issues can provide indirect familiarity with city problems.",
+  "Not too well": "Limited personal contact with city life can leave gaps in understanding urban-specific challenges.",
+  "Not at all well": "Lifelong residence far from any major city limits firsthand exposure to distinctly urban problems."
+ },
+ "PROBSUBURB_W32": {
+  "Very well": "Living in a suburban neighborhood for many years provides direct insight into issues like commuting and zoning.",
+  "Somewhat well": "Occasional visits to suburban relatives or friends can offer partial insight into suburban life.",
+  "Not too well": "Limited exposure to suburban infrastructure and school systems can leave understanding incomplete.",
+  "Not at all well": "A lifetime spent exclusively in cities or rural areas provides no direct suburban experience."
+ },
+ "PROBRURAL_W32": {
+  "Very well": "Growing up on a farm or in a small town provides direct familiarity with issues like limited healthcare access.",
+  "Somewhat well": "Extended family living in rural areas can provide some secondhand insight into rural struggles.",
+  "Not too well": "City dwellers with little rural contact may only know about farming and small-town issues through media.",
+  "Not at all well": "A lifetime spent entirely in large cities provides no direct exposure to distinctly rural challenges."
+ },
+ "WHADVANT_W32": {
+  "A great deal": "Historical data shows persistent racial gaps in wealth, homeownership, and incarceration rates.",
+  "A fair amount": "Studies on hiring and lending have documented measurable disparities based on race.",
+  "Not too much": "Civil rights laws over the past several decades have removed most formal legal barriers based on race.",
+  "Not at all": "Examples of successful individuals from all racial backgrounds are often cited as evidence that opportunity is equal."
+ },
+ "GAYMARR2_W32": {
+  "Very good thing": "Legal recognition of same-sex marriage has been shown to improve reported well-being among LGBTQ couples.",
+  "Somewhat good thing": "Expanding marriage rights has been associated with greater social inclusion for previously marginalized groups.",
+  "Somewhat bad thing": "Some religious communities hold traditional views of marriage that they feel have been challenged by the change.",
+  "Very bad thing": "Certain religious traditions teach that marriage should be defined strictly between a man and a woman."
+ },
+ "EAT5A_W34": {
+  "A great deal of health risk": "Pesticide residue on produce has been the subject of consumer advocacy warnings for decades.",
+  "Some health risk": "Regulatory agencies set maximum residue limits, implying some acknowledged but managed risk.",
+  "Not too much health risk": "Washing and peeling produce is generally understood to remove most surface pesticide residue.",
+  "No health risk at all": "Regulatory testing programs consistently find pesticide residues on approved produce well below safety thresholds."
+ },
+ "EAT5B_W34": {
+  "A great deal of health risk": "Concerns about antibiotic resistance from agricultural use have been widely reported in public health discussions.",
+  "Some health risk": "Hormone use in livestock has prompted some countries to restrict imports of treated meat.",
+  "Not too much health risk": "Regulatory withdrawal periods are designed to clear antibiotics and hormones from animals before slaughter.",
+  "No health risk at all": "Food safety agencies have approved these agricultural practices as safe for human consumption after extensive review."
+ },
+ "EAT5C_W34": {
+  "A great deal of health risk": "Some studies have linked artificial food dyes to behavioral effects in sensitive children.",
+  "Some health risk": "Certain artificial colorings have been banned or restricted in some countries due to health concerns.",
+  "Not too much health risk": "Regulatory agencies require extensive safety testing before approving food colorings for use.",
+  "No health risk at all": "Approved artificial colorings have been used safely in the food supply for many decades."
+ },
+ "EAT5D_W34": {
+  "A great deal of health risk": "Consumer advocacy groups have raised alarms about long-term effects of synthetic preservatives.",
+  "Some health risk": "Certain preservatives have been the subject of ongoing scientific debate regarding health effects.",
+  "Not too much health risk": "Preservatives are used in small, regulated quantities specifically to prevent foodborne illness.",
+  "No health risk at all": "Preservatives approved for food use undergo rigorous safety evaluation before being permitted."
+ },
+ "FUD35_W34": {
+  "A great deal": "Vocal advocacy groups on both sides of the GMO debate have kept the issue prominent in public discourse.",
+  "Some": "Occasional media coverage of GMO labeling laws keeps mild attention on the topic.",
+  "Not too much": "Most consumers report making food choices based on price and taste rather than genetic modification status.",
+  "Not at all": "Genetically modified ingredients are so widespread in the food supply that many shoppers no longer consider the distinction."
+ },
+ "FUD37A_W34": {
+  "Very likely": "Genetically modified crops have historically increased yields and reduced production costs for farmers.",
+  "Fairly likely": "Pest-resistant genetically modified varieties can reduce crop losses, potentially lowering prices.",
+  "Not too likely": "Seed patent costs for genetically modified crops can offset savings from higher yields.",
+  "Not at all likely": "Food prices are influenced by many factors like fuel and labor costs unrelated to genetic modification."
+ },
+ "FUD37B_W34": {
+  "Very likely": "Public skepticism about the long-term health effects of genetically modified foods has persisted for years.",
+  "Fairly likely": "Some consumer groups have called for more long-term studies on genetically modified food safety.",
+  "Not too likely": "Major scientific and health organizations have found no evidence linking approved genetically modified foods to health problems.",
+  "Not at all likely": "Genetically modified crops have been consumed widely for decades without documented population-level health effects."
+ },
+ "FUD37C_W34": {
+  "Very likely": "Concerns about cross-pollination between modified and wild plant species have been raised by environmental groups.",
+  "Fairly likely": "Herbicide-resistant crops have been associated with increased use of certain chemical herbicides.",
+  "Not too likely": "Some genetically modified crops have reduced pesticide use by building in pest resistance.",
+  "Not at all likely": "Regulatory agencies conduct environmental impact assessments before approving new genetically modified crop varieties."
+ },
+ "FUD37D_W34": {
+  "Very likely": "Drought-resistant and higher-yield modified crop varieties have expanded agricultural output in some regions.",
+  "Fairly likely": "Agricultural research organizations have promoted genetically modified crops as a tool for increasing food production.",
+  "Not too likely": "Food distribution and waste, not production volume, are cited by some experts as the primary barrier to global food supply.",
+  "Not at all likely": "Global hunger persists in many regions despite decades of genetically modified crop adoption elsewhere."
+ },
+ "MED5_W34": {
+  "Very well": "Advances in gene sequencing technology have rapidly expanded scientific knowledge of genetic mechanisms.",
+  "Fairly well": "Clinical trials of gene therapies have provided growing evidence about certain genetic interventions.",
+  "Not too well": "Many gene functions and interactions remain poorly understood even by specialists in the field.",
+  "Not at all well": "Unexpected side effects in early gene-editing research have highlighted significant gaps in scientific understanding."
+ },
+ "MED6A_W34": {
+  "Very likely": "Discussions of 'designer babies' and cosmetic genetic selection have raised ethical alarm among bioethicists.",
+  "Fairly likely": "Historical misuse of medical technologies for non-medical purposes has occurred in various contexts.",
+  "Not too likely": "Strict medical ethics boards and regulatory oversight govern the approval of genetic interventions.",
+  "Not at all likely": "International scientific consensus has established firm ethical guidelines restricting gene editing to serious medical conditions."
+ },
+ "MED6B_W34": {
+  "Very likely": "Gene therapies have already extended survival rates for several inherited diseases.",
+  "Fairly likely": "Medical technology has historically improved average life expectancy over time.",
+  "Not too likely": "Many genetic traits linked to longevity involve hundreds of interacting genes that are hard to edit precisely.",
+  "Not at all likely": "Complex diseases like heart disease and cancer arise from lifestyle and environment as much as genetics."
+ },
+ "MED6C_W34": {
+  "Very likely": "Regulatory approval processes for new medical technologies are often outpaced by rapid scientific development.",
+  "Fairly likely": "Past medical innovations, such as thalidomide, were widely used before their full health effects were understood.",
+  "Not too likely": "Clinical trial requirements mandate years of safety testing before a treatment reaches the public.",
+  "Not at all likely": "International ethics boards require long-term safety data before approving heritable genetic interventions."
+ },
+ "MED6D_W34": {
+  "Very likely": "Elective medical procedures without insurance coverage tend to be priced far beyond an average household's budget.",
+  "Fairly likely": "New medical technologies typically launch at high prices before eventually becoming more affordable.",
+  "Not too likely": "Public health systems in many countries have historically subsidized costly new treatments to widen access.",
+  "Not at all likely": "Government funding programs have successfully made some advanced therapies available to low-income patients."
+ },
+ "MED6E_W34": {
+  "Very likely": "Breakthroughs in gene editing research have already led to new treatments for sickle cell disease.",
+  "Fairly likely": "Biomedical research fields frequently produce spillover benefits for unrelated areas of medicine.",
+  "Not too likely": "Highly specialized medical techniques often remain confined to narrow patient populations for decades.",
+  "Not at all likely": "Some experimental medical technologies stall for years due to technical or ethical obstacles."
+ },
+ "IMPROVE1_W36": {
+  "A lot": "Countries with more women in senior government roles have enacted more family leave and childcare policies.",
+  "Some": "Increased female representation in leadership has been associated with modest gains in workplace equity metrics.",
+  "Not much": "Structural barriers like wage gaps often persist even in organizations with female leaders.",
+  "Nothing at all": "Studies of corporate boards have found leadership diversity alone does not always change day-to-day working conditions."
+ },
+ "IMPROVE2_W36": {
+  "A lot": "Balanced leadership teams have been linked to policies that also expand parental leave benefits for fathers.",
+  "Some": "Diverse leadership has occasionally led to broader workplace policy reforms that touch all employees.",
+  "Not much": "Men's employment conditions are shaped mostly by industry-wide economic trends rather than who holds top office.",
+  "Nothing at all": "Leadership composition changes have shown little measurable effect on male wage or promotion trends."
+ },
+ "IMPROVE3_W36": {
+  "A lot": "Nations with more balanced political leadership report higher scores on broad social wellbeing indices.",
+  "Some": "Diverse leadership has been correlated with incremental improvements in public policy outcomes.",
+  "Not much": "National quality-of-life measures are driven mainly by economic growth rather than leadership demographics.",
+  "Nothing at all": "Broad social outcomes have shown no consistent link to the gender composition of top leadership."
+ },
+ "WMNPRZ1_W36": {
+  "Very good": "Countries led by female heads of state have seen strong approval ratings for crisis management performance.",
+  "Somewhat good": "Female political leaders have brought increased attention to family and healthcare policy issues.",
+  "Somewhat bad": "Some voters express concern that a first-time transition in leadership demographics could create political instability.",
+  "Very bad": "Certain segments of the electorate hold strong traditional views opposing women in the highest office."
+ },
+ "OPTIMIST_W41": {
+  "Very optimistic": "Technological innovation has historically driven long-term improvements in living standards.",
+  "Somewhat optimistic": "Economic indicators have shown periods of resilience and recovery following past national crises.",
+  "Somewhat pessimistic": "Rising political polarization has made bipartisan solutions to long-term problems increasingly difficult.",
+  "Very pessimistic": "National debt levels and climate projections point to significant challenges over coming decades."
+ },
+ "HAPPEN2a_W41": {
+  "Will definitely happen": "Global terrorism threat assessments continue to identify active plots against major Western targets.",
+  "Will probably happen": "Security agencies have reported a steady stream of disrupted attack plans over recent years.",
+  "Will probably not happen": "Counterterrorism spending and surveillance capabilities have expanded substantially since 2001.",
+  "Will definitely not happen": "Major terrorist organizations responsible for large-scale attacks have been significantly weakened by military campaigns."
+ },
+ "HAPPEN2b_W41": {
+  "Will definitely happen": "Global oil and gas reserves are finite and demand continues to rise in developing economies.",
+  "Will probably happen": "Geopolitical tensions in energy-producing regions have repeatedly disrupted global supply chains.",
+  "Will probably not happen": "Renewable energy capacity has been expanding rapidly, reducing dependence on fossil fuels.",
+  "Will definitely not happen": "Diversified energy grids and storage technology have made supply disruptions easier to manage."
+ },
+ "HAPPEN2c_W41": {
+  "Will definitely happen": "Billions of dollars in funding are currently directed toward Alzheimer's drug research annually.",
+  "Will probably happen": "Recent clinical trials have shown some drugs slowing cognitive decline in early-stage patients.",
+  "Will probably not happen": "Alzheimer's disease involves multiple complex biological pathways that have resisted decades of research.",
+  "Will definitely not happen": "Numerous high-profile Alzheimer's drug trials have failed to reach their primary endpoints."
+ },
+ "HAPPEN2d_W41": {
+  "Will definitely happen": "China's economy has grown to become the second largest in the world within a few decades.",
+  "Will probably happen": "China has been investing heavily in military modernization and global infrastructure projects.",
+  "Will probably not happen": "China faces demographic decline and slowing growth rates that could limit its long-term rise.",
+  "Will definitely not happen": "The United States maintains the world's largest military budget and a dominant global currency."
+ },
+ "HAPPEN2e_W41": {
+  "Will definitely happen": "Women have been elected as heads of government in a growing number of countries worldwide.",
+  "Will probably happen": "Several women have run competitive national campaigns for the U.S. presidency in recent elections.",
+  "Will probably not happen": "No woman has yet been elected to the U.S. presidency across more than two centuries of elections.",
+  "Will definitely not happen": "Persistent gender bias in political polling has historically disadvantaged female presidential candidates."
+ },
+ "HAPPEN2f_W41": {
+  "Will definitely happen": "The Hispanic population share of the United States has been steadily increasing for decades.",
+  "Will probably happen": "A growing number of Hispanic politicians have been elected to major statewide and federal offices.",
+  "Will probably not happen": "No Hispanic candidate has yet won a major party's presidential nomination.",
+  "Will definitely not happen": "Historical voting patterns have shown persistent underrepresentation of Hispanic candidates in top national office."
+ },
+ "HAPPEN2g_W41": {
+  "Will definitely happen": "Social Security's trust fund is projected to face funding shortfalls in coming decades.",
+  "Will probably happen": "Life expectancy increases have already led some employers to raise retirement ages.",
+  "Will probably not happen": "Automation and productivity gains could reduce the economic pressure to delay retirement.",
+  "Will definitely not happen": "Pension reforms in some countries have successfully stabilized retirement funding without raising work ages."
+ },
+ "HAPPEN2h_W41": {
+  "Will definitely happen": "Reported antisemitic incidents have risen sharply in national hate crime statistics in recent years.",
+  "Will probably happen": "Extremist groups promoting antisemitic ideology have expanded their online recruitment activity.",
+  "Will probably not happen": "Increased funding for hate crime prevention programs has been allocated in several jurisdictions.",
+  "Will definitely not happen": "Community security initiatives and law enforcement partnerships have expanded protective measures for Jewish institutions."
+ },
+ "NATDEBT_W41": {
+  "Grow larger": "Federal budget deficits have persisted for most of the past several decades regardless of which party holds power.",
+  "Stay about the same": "Periods of strong economic growth have occasionally stabilized the debt-to-GDP ratio for several years.",
+  "Be reduced": "Budget surpluses were achieved briefly in the late 1990s through spending restraint and strong tax revenue.",
+  "Be eliminated": "Some political proposals call for constitutional balanced-budget amendments aimed at eliminating national debt."
+ },
+ "FTRWORRYa_W41": {
+  "Very worried": "Income inequality has widened significantly over the past several decades.",
+  "Fairly worried": "Stock market volatility and inflation spikes have periodically unsettled household finances.",
+  "Not too worried": "Unemployment rates have remained relatively low compared to historical averages in recent years.",
+  "Not at all worried": "The economy has recovered from multiple past recessions and financial crises."
+ },
+ "FTRWORRYb_W41": {
+  "Very worried": "Standardized test scores in reading and math have declined in many public school districts.",
+  "Fairly worried": "Teacher shortages have been reported across numerous school districts nationwide.",
+  "Not too worried": "Local school funding initiatives have increased education budgets in many communities.",
+  "Not at all worried": "Graduation rates have risen steadily over the past two decades."
+ },
+ "FTRWORRYc_W41": {
+  "Very worried": "Congressional approval ratings have remained near historic lows for extended periods.",
+  "Fairly worried": "Government shutdowns over budget disputes have occurred multiple times in recent years.",
+  "Not too worried": "Checks and balances built into the constitutional system have functioned through past political crises.",
+  "Not at all worried": "Peaceful transfers of power have occurred consistently throughout the nation's history."
+ },
+ "FTRWORRYd_W41": {
+  "Very worried": "Legislative gridlock has repeatedly delayed action on major national issues like immigration and infrastructure.",
+  "Fairly worried": "Partisan polarization has made it harder for lawmakers to reach bipartisan compromises.",
+  "Not too worried": "Some major bipartisan legislation has passed in recent years despite political divisions.",
+  "Not at all worried": "Local and state governments have successfully implemented effective policy solutions independent of federal gridlock."
+ },
+ "FTRWORRYe_W41": {
+  "Very worried": "Surveys have shown declining trust in major institutions such as religion and media.",
+  "Fairly worried": "Public debates over cultural and social issues have grown increasingly contentious in recent years.",
+  "Not too worried": "Charitable giving and volunteering rates have remained relatively steady over time.",
+  "Not at all worried": "Civic engagement and community volunteering continue at consistent levels across generations."
+ },
+ "FTRWORRYf_W41": {
+  "Very worried": "Global average temperatures have risen measurably over the past several decades according to climate records.",
+  "Fairly worried": "Extreme weather events such as wildfires and hurricanes have increased in frequency in various regions.",
+  "Not too worried": "Renewable energy adoption and emissions reduction technologies have expanded significantly in recent years.",
+  "Not at all worried": "International agreements have set targets aimed at limiting future temperature increases."
+ },
+ "ROBWRK_W41": {
+  "Definitely happen": "Automation has already replaced significant portions of manufacturing and warehouse labor.",
+  "Probably happen": "Artificial intelligence systems are increasingly capable of performing tasks once done only by humans.",
+  "Probably not happen": "Many service and caregiving jobs require human judgment and interpersonal skills difficult to automate.",
+  "Definitely not happen": "Historical predictions of mass automation-driven unemployment have repeatedly failed to materialize."
+ },
+ "ROBWRK2_W41": {
+  "A very good thing for the country": "Automation has historically increased productivity and lowered the cost of goods for consumers.",
+  "A somewhat good thing for the country": "New technology sectors have often created new categories of jobs to replace displaced ones.",
+  "A somewhat bad thing for the country": "Communities dependent on manufacturing jobs have experienced economic decline after automation.",
+  "A very bad thing for the country": "Rapid job displacement from automation could widen income inequality without adequate retraining programs."
+ },
+ "FUTR_ABR_W41": {
+  "Legal with no restrictions": "Some jurisdictions have moved to expand abortion access with fewer legal limitations in recent years.",
+  "Legal but with some restrictions": "Most existing state abortion laws currently include gestational limits or exceptions rather than outright bans.",
+  "Illegal except in certain cases": "Several states have enacted near-total bans with narrow exceptions following recent court rulings.",
+  "Illegal with no exceptions": "Some proposed legislation has sought to eliminate all exceptions from abortion restriction laws."
+ },
+ "SOLVPROBa_W41": {
+  "A very positive impact": "Scientific breakthroughs like vaccines have dramatically reduced disease burdens worldwide.",
+  "A somewhat positive impact": "Technological advances have improved efficiency in areas like agriculture and healthcare delivery.",
+  "A somewhat negative impact": "New technologies have sometimes introduced unforeseen problems such as privacy erosion.",
+  "A very negative impact": "Certain technological developments have contributed to job losses and social disruption."
+ },
+ "SOLVPROBb_W41": {
+  "A very positive impact": "Large corporations have funded significant research and development that produced widely used innovations.",
+  "A somewhat positive impact": "Private sector investment has helped scale solutions like renewable energy technology.",
+  "A somewhat negative impact": "Corporate lobbying has sometimes been reported to block regulations addressing public concerns.",
+  "A very negative impact": "Certain corporate practices have been linked to environmental pollution and consumer harm."
+ },
+ "SOLVPROBc_W41": {
+  "A very positive impact": "Religious organizations have historically operated large charitable networks providing food and shelter.",
+  "A somewhat positive impact": "Faith-based groups have contributed to community organizing efforts on social issues.",
+  "A somewhat negative impact": "Religious institutions have at times been involved in disputes over social policy that increased division.",
+  "A very negative impact": "Some religious groups have opposed scientific or policy measures that public health officials recommended."
+ },
+ "SOLVPROBdF1_W41": {
+  "A very positive impact": "Federal programs like Social Security and Medicare have provided substantial support to millions of citizens.",
+  "A somewhat positive impact": "Federal infrastructure spending has funded highways, bridges, and public services nationwide.",
+  "A somewhat negative impact": "Legislative gridlock in Washington has delayed action on pressing national issues for years.",
+  "A very negative impact": "Government shutdowns and partisan dysfunction have disrupted public services multiple times."
+ },
+ "SOLVPROBeF2_W41": {
+  "A very positive impact": "Local governments have successfully implemented targeted programs addressing community-specific needs.",
+  "A somewhat positive impact": "State-level policy experiments have sometimes been adopted nationally after proving effective.",
+  "A somewhat negative impact": "Budget shortfalls have forced some state and local governments to cut essential services.",
+  "A very negative impact": "Inconsistent policies across states have created confusion and inequities between regions."
+ },
+ "SOLVPROBf_W41": {
+  "A very positive impact": "Investigative journalism has historically exposed corruption and driven important policy reforms.",
+  "A somewhat positive impact": "News coverage has raised public awareness of social issues that led to policy changes.",
+  "A somewhat negative impact": "Media outlets have been criticized for prioritizing sensationalism over substantive policy discussion.",
+  "A very negative impact": "The spread of misinformation through media channels has been linked to increased public distrust."
+ },
+ "SOLVPROBg_W41": {
+  "A very positive impact": "Military disaster relief operations have provided critical aid during natural disasters domestically and abroad.",
+  "A somewhat positive impact": "Defense research funding has historically produced technologies later adapted for civilian use.",
+  "A somewhat negative impact": "High levels of defense spending have been criticized for diverting funds from domestic programs.",
+  "A very negative impact": "Prolonged military engagements abroad have drawn criticism for high costs and limited resolution of underlying problems."
+ },
+ "SOLVPROBh_W41": {
+  "A very positive impact": "University research labs have produced major scientific and medical breakthroughs over the decades.",
+  "A somewhat positive impact": "Higher education institutions have expanded access to job training and skill development programs.",
+  "A somewhat negative impact": "Rising tuition costs have left many graduates burdened with significant student loan debt.",
+  "A very negative impact": "Some colleges have faced criticism for administrative bloat that has driven up costs without improving outcomes."
+ },
+ "SOLVPROBi_W41": {
+  "A very positive impact": "Public schools provide free education to the vast majority of the nation's children.",
+  "A somewhat positive impact": "Investment in early childhood education programs has been linked to improved long-term outcomes.",
+  "A somewhat negative impact": "Achievement gaps between wealthy and low-income school districts have persisted for decades.",
+  "A very negative impact": "Chronic underfunding in some districts has been linked to declining student performance and teacher shortages."
+ },
+ "CONFa_W42": {
+  "A great deal of confidence": "Some elected officials have built long careers on consistent records of constituent service.",
+  "A fair amount of confidence": "Certain bipartisan legislative achievements have demonstrated officials working across party lines for public benefit.",
+  "Not too much confidence": "Numerous political corruption scandals have been reported involving elected officials in recent years.",
+  "No confidence at all": "Public approval ratings for Congress have remained near record lows for extended periods."
+ },
+ "CONFb_W42": {
+  "A great deal of confidence": "Investigative reporting has repeatedly uncovered wrongdoing that led to meaningful accountability.",
+  "A fair amount of confidence": "Established news organizations maintain editorial standards and fact-checking processes.",
+  "Not too much confidence": "Surveys have shown declining public trust in mainstream media outlets over the past two decades.",
+  "No confidence at all": "Several news outlets have faced criticism for publishing retracted or inaccurate stories."
+ },
+ "CONFc_W42": {
+  "A great deal of confidence": "The armed forces consistently rank among the most trusted institutions in national surveys.",
+  "A fair amount of confidence": "Military disaster response efforts have provided effective aid during domestic emergencies.",
+  "Not too much confidence": "Reports of misconduct scandals have occasionally emerged within military leadership ranks.",
+  "No confidence at all": "Costly and prolonged foreign military engagements have drawn public criticism over their outcomes."
+ },
+ "CONFd_F1_W42": {
+  "A great deal of confidence": "Medical scientists developed vaccines that dramatically reduced disease rates within a short span of years.",
+  "A fair amount of confidence": "Peer review processes are designed to catch errors before medical research findings are published.",
+  "Not too much confidence": "Some widely publicized medical studies have later been retracted due to flawed methodology.",
+  "No confidence at all": "Cases of falsified data in medical research have been uncovered and publicized in past years."
+ },
+ "CONFd_F2_W42": {
+  "A great deal of confidence": "Scientific consensus has driven major public health improvements such as reduced smoking rates.",
+  "A fair amount of confidence": "Scientific findings undergo extensive peer review before publication in most reputable journals.",
+  "Not too much confidence": "Scientific conclusions on some topics have shifted over time as new evidence emerged.",
+  "No confidence at all": "A number of high-profile scientific studies have failed to be replicated by other researchers."
+ },
+ "CONFe_W42": {
+  "A great deal of confidence": "Religious congregations often provide long-standing community support networks for their members.",
+  "A fair amount of confidence": "Faith leaders frequently engage in charitable work benefiting broader communities.",
+  "Not too much confidence": "Several religious institutions have faced public scandals involving financial or ethical misconduct.",
+  "No confidence at all": "Widely publicized abuse scandals within religious organizations have damaged public trust."
+ },
+ "CONFf_W42": {
+  "A great deal of confidence": "School principals often have direct, long-term relationships with families in their communities.",
+  "A fair amount of confidence": "Many public schools report steady improvements in graduation rates under current administration.",
+  "Not too much confidence": "Disputes over school policies have sometimes placed principals at odds with parents and staff.",
+  "No confidence at all": "Some school administrators have faced public criticism over handling of safety or misconduct issues."
+ },
+ "CONFg_W42": {
+  "A great deal of confidence": "Some business leaders have built companies that created substantial jobs and economic growth.",
+  "A fair amount of confidence": "Corporate philanthropy programs have funded community and educational initiatives.",
+  "Not too much confidence": "Executive compensation has grown much faster than average worker wages in recent decades.",
+  "No confidence at all": "Several major corporate scandals involving fraud or exploitation have been widely reported."
+ },
+ "RQ4_F1Aa_W42": {
+  "All or most of time": "Medical research has produced consistently reproducible results in fields like vaccine development.",
+  "Some of the time": "Replication studies have found that a portion of published medical research does not hold up under retesting.",
+  "Only a little of the time": "Reports have highlighted systemic issues with small sample sizes weakening many medical studies.",
+  "None of the time": "Cases of fabricated data have been discovered in a number of published medical research papers."
+ },
+ "RQ4_F1Ab_W42": {
+  "All or most of time": "Medical journals often require authors to disclose funding sources alongside their published findings.",
+  "Some of the time": "Press releases about medical studies have sometimes overstated the certainty of preliminary findings.",
+  "Only a little of the time": "Industry-funded studies have occasionally been found to favor the sponsor's product in their conclusions.",
+  "None of the time": "Instances of researchers selectively reporting only favorable results have been documented in medical literature."
+ },
+ "RQ4_F1Ac_W42": {
+  "All or most of time": "Some prominent medical researchers have publicly retracted flawed studies once errors were identified.",
+  "Some of the time": "Journal retraction rates have increased over the past decade as error-detection improved.",
+  "Only a little of the time": "Institutions have sometimes been slow to investigate allegations of research errors against their own staff.",
+  "None of the time": "Cases have emerged where researchers denied wrongdoing despite clear evidence of data manipulation."
+ },
+ "RQ4_F1Ad_W42": {
+  "All or most of time": "Many leading medical journals now require detailed conflict-of-interest disclosure statements from authors.",
+  "Some of the time": "Disclosure policies vary widely between journals and are not consistently enforced.",
+  "Only a little of the time": "Investigations have found undisclosed industry payments to researchers publishing on related drugs.",
+  "None of the time": "Several high-profile cases have revealed researchers concealing substantial pharmaceutical industry funding."
+ },
+ "RQ4_F1Ae_W42": {
+  "All or most of time": "Medical researchers dedicate careers to developing treatments that reduce human suffering.",
+  "Some of the time": "Research priorities are sometimes shaped by funding availability rather than public health need alone.",
+  "Only a little of the time": "Critics have pointed to underfunded research on diseases that primarily affect low-income populations.",
+  "None of the time": "Some pharmaceutical-funded trials have been criticized for prioritizing profit over patient welfare."
+ },
+ "RQ5_F1A_W42": {
+  "A very big problem": "Retraction databases show a steady rise in the number of medical papers withdrawn for misconduct.",
+  "A moderately big problem": "Several publicized cases of data fabrication have drawn attention to the issue in the past decade.",
+  "A small problem": "Journal peer review processes catch and reject the majority of flawed submissions before publication.",
+  "Not a problem at all": "Formal misconduct findings remain rare relative to the overall volume of medical research published annually."
+ },
+ "RQ8_F1A_W42": {
+  "All or most of the time": "Institutions have terminated researchers found guilty of scientific fraud in high-profile cases.",
+  "Some of the time": "Federal research integrity offices periodically publish findings and sanctions against researchers.",
+  "Only a little of the time": "Some researchers found guilty of misconduct have continued working at other institutions afterward.",
+  "None of the time": "Critics have noted that formal misconduct investigations can take years and rarely result in serious penalties."
+ },
+ "RQ4_F1Ba_W42": {
+  "All or most of time": "Environmental research has produced well-established findings such as the ozone layer's recovery after policy intervention.",
+  "Some of the time": "Environmental studies sometimes rely on complex models that produce varying results across research teams.",
+  "Only a little of the time": "Funding pressures have been reported to influence the scope and framing of some environmental studies.",
+  "None of the time": "A number of environmental impact studies have later been found to contain significant methodological flaws."
+ },
+ "RQ4_F1Bb_W42": {
+  "All or most of time": "Environmental agencies rely on peer-reviewed data to set public safety standards for pollutants.",
+  "Some of the time": "Advocacy groups on different sides of environmental debates sometimes present selective data to support their positions.",
+  "Only a little of the time": "Industry-funded environmental studies have occasionally been found to downplay risks associated with certain practices.",
+  "None of the time": "Cases have surfaced where corporate-sponsored research minimized known environmental hazards."
+ },
+ "RQ4_F1Bc_W42": {
+  "All or most of time": "Some environmental researchers have publicly corrected earlier projections as new data became available.",
+  "Some of the time": "Scientific consensus on environmental topics has shifted over time as measurement techniques improved.",
+  "Only a little of the time": "Institutions have occasionally been slow to address errors found in environmental impact assessments.",
+  "None of the time": "Some organizations have been accused of resisting corrections to politically sensitive environmental findings."
+ },
+ "RQ4_F1Bd_W42": {
+  "All or most of time": "Many environmental journals require authors to disclose funding sources from energy or chemical companies.",
+  "Some of the time": "Disclosure requirements for environmental research funding differ significantly across publications.",
+  "Only a little of the time": "Investigations have revealed undisclosed industry funding behind some environmental studies.",
+  "None of the time": "Notable cases have shown researchers concealing fossil fuel industry funding for their published work."
+ },
+ "RQ4_F1Be_W42": {
+  "All or most of time": "Environmental scientists have driven public policy changes aimed at protecting air and water quality.",
+  "Some of the time": "Research funding sources can shape which environmental risks receive the most scientific attention.",
+  "Only a little of the time": "Some communities have criticized environmental research for overlooking pollution affecting low-income areas.",
+  "None of the time": "Certain corporate-funded environmental studies have been accused of serving sponsor interests over public welfare."
+ },
+ "RQ5_F1B_W42": {
+  "A very big problem": "Several high-profile cases of falsified data in climate and environmental science have been widely publicized.",
+  "A moderately big problem": "Occasional retractions of environmental studies have raised questions about research quality.",
+  "A small problem": "Peer review and replication requirements have caught most flawed environmental studies before wide dissemination.",
+  "Not a problem at all": "Formal misconduct cases in environmental science remain uncommon relative to the field's total research output."
+ },
+ "RQ8_F1B_W42": {
+  "All or most of the time": "Some environmental researchers found fabricating data have lost their academic positions and funding.",
+  "Some of the time": "Research integrity offices occasionally publish sanctions against environmental scientists for misconduct.",
+  "Only a little of the time": "Some researchers implicated in environmental data disputes have continued publishing without formal sanction.",
+  "None of the time": "Critics note that misconduct investigations in environmental science are often lengthy and rarely result in real consequences."
+ },
+ "RQ4_F1Ca_W42": {
+  "All or most of time": "Long-term nutrition studies have established well-replicated links between diet and chronic disease risk.",
+  "Some of the time": "Nutrition research often relies on self-reported dietary data that can introduce inconsistencies.",
+  "Only a little of the time": "Conflicting nutrition study results have been publicized, such as shifting guidance on dietary fat and eggs.",
+  "None of the time": "Some nutrition studies have been found to have significant methodological flaws upon later scrutiny."
+ },
+ "RQ4_F1Cb_W42": {
+  "All or most of time": "Government dietary guidelines are updated periodically based on accumulated peer-reviewed nutrition research.",
+  "Some of the time": "Media coverage of nutrition studies sometimes oversimplifies or exaggerates preliminary findings.",
+  "Only a little of the time": "Food industry-funded nutrition studies have occasionally been found to favor the sponsor's products.",
+  "None of the time": "Investigations have revealed cases of sugar and food industry funding shaping published nutrition conclusions."
+ },
+ "RQ4_F1Cc_W42": {
+  "All or most of time": "Some nutrition researchers have publicly updated their recommendations as newer, stronger evidence emerged.",
+  "Some of the time": "Nutrition science has seen several notable reversals in guidance over past decades as understanding evolved.",
+  "Only a little of the time": "Some nutrition researchers have been criticized for being slow to acknowledge outdated recommendations.",
+  "None of the time": "Certain nutrition researchers tied to industry funding have resisted revising conclusions despite contrary evidence."
+ },
+ "RQ4_F1Cd_W42": {
+  "All or most of time": "Major nutrition journals require standardized conflict-of-interest disclosure forms for every published study.",
+  "Some of the time": "Some nutrition studies disclose industry funding while others omit relevant financial ties in supplementary materials only.",
+  "Only a little of the time": "Investigative reports have repeatedly found nutrition researchers with undisclosed payments from food and beverage companies.",
+  "None of the time": "Cases have surfaced in which nutrition scientists actively concealed sugar-industry funding for decades before it was discovered."
+ },
+ "RQ4_F1Ce_W42": {
+  "All or most of time": "Nutrition scientists frequently publish dietary guidelines explicitly aimed at improving public health outcomes.",
+  "Some of the time": "Nutrition research priorities sometimes align with public health needs and sometimes track available industry grant funding instead.",
+  "Only a little of the time": "Corporate-funded nutrition studies have been shown to produce results favorable to the funding company far more often than independent studies.",
+  "None of the time": "Historical scandals revealed nutrition scientists deliberately shifting public blame for health problems away from a sponsor's product."
+ },
+ "RQ5_F1C_W42": {
+  "A very big problem": "High-profile retractions of nutrition studies due to fabricated data have drawn extensive media coverage in recent years.",
+  "A moderately big problem": "Surveys of scientists report that a noticeable minority have witnessed questionable research practices in their nutrition labs.",
+  "A small problem": "Retraction rates in nutrition journals remain a small fraction of total published articles each year.",
+  "Not a problem at all": "Peer review and replication processes in nutrition science are designed to catch and correct most errors before wide dissemination."
+ },
+ "RQ8_F1C_W42": {
+  "All or most of the time": "Universities have well-publicized research integrity offices that formally investigate and sanction misconduct allegations.",
+  "Some of the time": "Some misconduct cases result in retraction and career damage while other similar cases draw no institutional response.",
+  "Only a little of the time": "Researchers found guilty of data fabrication have sometimes continued receiving grant funding and publishing afterward.",
+  "None of the time": "Reports describe scientists who committed clear research fraud facing no loss of position, funding, or professional standing."
+ },
+ "PQ4_F2Aa_W42": {
+  "All or most of the time": "Medical doctors undergo years of rigorous training and licensing exams before being permitted to practice.",
+  "Some of the time": "Diagnostic accuracy studies find that doctors sometimes reach correct diagnoses quickly and other times require multiple visits to identify a condition.",
+  "Only a little of the time": "Diagnostic error is estimated to affect a substantial share of outpatient visits according to health system audits.",
+  "None of the time": "Malpractice lawsuits alleging missed or wrong diagnoses are filed against physicians every year in large numbers."
+ },
+ "PQ4_F2Ab_W42": {
+  "All or most of the time": "Medical licensing boards require continuing education to keep physicians current on evidence-based treatment guidelines.",
+  "Some of the time": "Treatment recommendations from doctors sometimes reflect the latest clinical evidence and sometimes reflect outdated practice habits.",
+  "Only a little of the time": "Studies have found that pharmaceutical company gifts to physicians correlate with increased prescribing of that company's drugs.",
+  "None of the time": "Documented cases exist of doctors recommending unnecessary procedures for direct financial gain."
+ },
+ "PQ4_F2Ac_W42": {
+  "All or most of the time": "Hospitals increasingly promote formal disclosure and apology programs after medical errors.",
+  "Some of the time": "Some doctors openly disclose errors to patients while others avoid the topic due to liability concerns.",
+  "Only a little of the time": "Fear of malpractice litigation is widely cited as discouraging physicians from admitting mistakes.",
+  "None of the time": "Legal defense training for physicians sometimes explicitly advises against acknowledging fault after adverse outcomes."
+ },
+ "PQ4_F2Ad_W42": {
+  "All or most of the time": "Many hospitals now require physicians to publicly disclose financial relationships with pharmaceutical and device companies.",
+  "Some of the time": "Some doctors disclose industry payments in required databases while patients rarely check those records before appointments.",
+  "Only a little of the time": "Federal payment databases have revealed millions of dollars in undisclosed industry payments to individual physicians.",
+  "None of the time": "Investigations have found physicians promoting products on television without mentioning payments from the manufacturer."
+ },
+ "PQ4_F2Ae_W42": {
+  "All or most of the time": "The medical profession's ethical code centers explicitly on the principle of prioritizing patient welfare above all else.",
+  "Some of the time": "Patient satisfaction surveys show doctors sometimes spend ample time with patients and other times feel rushed by scheduling pressures.",
+  "Only a little of the time": "Time pressure from high patient loads has been linked to reduced attention to individual patient concerns.",
+  "None of the time": "Cases of doctors prioritizing billing volume over patient needs have been documented in fraud investigations."
+ },
+ "PQ5_F2A_W42": {
+  "A very big problem": "News coverage of opioid overprescription scandals implicated numerous physicians in contributing to a national epidemic.",
+  "A moderately big problem": "State medical boards discipline a measurable number of physicians for misconduct annually, though most doctors are never sanctioned.",
+  "A small problem": "The overwhelming majority of licensed physicians complete entire careers without any formal misconduct finding against them.",
+  "Not a problem at all": "Strict licensing and peer review systems are specifically designed to prevent and catch physician misconduct."
+ },
+ "PQ8_F2A_W42": {
+  "All or most of the time": "Medical boards have the legal authority to revoke a physician's license permanently for serious misconduct.",
+  "Some of the time": "Some disciplined doctors lose their licenses while others receive only a warning letter for similar violations.",
+  "Only a little of the time": "Journalistic investigations have found physicians with multiple malpractice settlements who kept their licenses active.",
+  "None of the time": "Reports describe doctors who moved between states to continue practicing after facing disciplinary action elsewhere."
+ },
+ "PQ4_F2Ba_W42": {
+  "All or most of the time": "Environmental health specialists rely on standardized federal exposure guidelines when assessing risks to the public.",
+  "Some of the time": "Environmental risk assessments sometimes accurately predict health outcomes and other times are later revised significantly.",
+  "Only a little of the time": "Communities have discovered contamination years after officials initially assessed the area as safe.",
+  "None of the time": "Cases exist where environmental health agencies failed to identify hazardous industrial contamination for extended periods."
+ },
+ "PQ4_F2Bb_W42": {
+  "All or most of the time": "Environmental health reports are typically built on peer-reviewed toxicology and epidemiological data.",
+  "Some of the time": "Some environmental assessments are conducted independently while others are commissioned directly by the regulated industry.",
+  "Only a little of the time": "Industry-funded environmental studies have been found to understate health risks compared to independently funded research.",
+  "None of the time": "Regulatory capture cases have shown agencies systematically favoring polluter interests over accurate public reporting."
+ },
+ "PQ4_F2Bc_W42": {
+  "All or most of the time": "Environmental agencies sometimes issue formal public corrections when new data changes a prior risk assessment.",
+  "Some of the time": "Some environmental agencies revise findings publicly while others quietly update figures without acknowledgment.",
+  "Only a little of the time": "Communities near contaminated sites have reported agencies being slow to acknowledge earlier assessment failures.",
+  "None of the time": "Whistleblower accounts describe agencies denying responsibility even after internal data confirmed a hazard."
+ },
+ "PQ4_F2Bd_W42": {
+  "All or most of the time": "Federal ethics rules require environmental scientists to disclose financial ties to regulated industries.",
+  "Some of the time": "Some environmental health panels disclose industry funding sources while others leave such ties unreported.",
+  "Only a little of the time": "Reports have found scientific advisory panel members with undisclosed consulting income from chemical manufacturers.",
+  "None of the time": "Documented lobbying campaigns have concealed industry funding behind seemingly independent environmental research groups."
+ },
+ "PQ4_F2Be_W42": {
+  "All or most of the time": "Environmental health agencies have a stated mission of protecting community health from environmental hazards.",
+  "Some of the time": "Some communities report responsive environmental health outreach while others describe being ignored after complaints.",
+  "Only a little of the time": "Low-income communities have historically received slower environmental hazard responses than wealthier areas.",
+  "None of the time": "Documented environmental justice cases show communities left unprotected despite years of pollution complaints."
+ },
+ "PQ5_F2B_W42": {
+  "A very big problem": "Major water contamination scandals have exposed years of regulatory failure by environmental health officials.",
+  "A moderately big problem": "Periodic local news stories report environmental health lapses in specific towns without suggesting a nationwide pattern.",
+  "A small problem": "Most environmental health inspections and reports proceed without any documented misconduct findings.",
+  "Not a problem at all": "Environmental protection agencies operate under extensive legal oversight designed to prevent misconduct."
+ },
+ "PQ8_F2B_W42": {
+  "All or most of the time": "Environmental protection laws include criminal penalties for officials who falsify compliance data.",
+  "Some of the time": "Some environmental misconduct cases lead to fines and firings while comparable cases receive no penalty at all.",
+  "Only a little of the time": "Investigations have found environmental officials who suppressed contamination data without facing termination.",
+  "None of the time": "Whistleblowers in environmental agencies have reported retaliation rather than consequences for the officials who withheld information."
+ },
+ "PQ4_F2Ca_W42": {
+  "All or most of the time": "Registered dietitians complete accredited training programs specifically focused on evidence-based nutrition guidance.",
+  "Some of the time": "Dietary advice varies among practitioners, with some closely following updated nutrition science and others relying on outdated guidelines.",
+  "Only a little of the time": "Nutrition recommendations have shifted substantially over past decades, leading to public confusion about what constitutes healthy eating.",
+  "None of the time": "Some self-styled diet advisors without accredited credentials have promoted eating plans later shown to be harmful."
+ },
+ "PQ4_F2Cb_W42": {
+  "All or most of the time": "Professional dietitian associations maintain codes of ethics requiring evidence-based, unbiased recommendations.",
+  "Some of the time": "Some dietitians provide recommendations free of commercial influence while others promote specific branded products.",
+  "Only a little of the time": "Some dietitians have been found to endorse specific food brands in exchange for sponsorship payments.",
+  "None of the time": "Cases have surfaced of nutrition counselors promoting products contradicted by established dietary science."
+ },
+ "PQ4_F2Cc_W42": {
+  "All or most of the time": "Client feedback processes in dietetics practice often include follow-up sessions to adjust recommendations that did not work.",
+  "Some of the time": "Some dietitians revise their advice when a client's results diverge from expectations, while others keep recommending the same plan.",
+  "Only a little of the time": "Diet plans that fail to produce promised results are sometimes attributed to client noncompliance rather than flawed advice.",
+  "None of the time": "Consumer complaints against some nutrition counselors describe an unwillingness to revise ineffective meal plans."
+ },
+ "PQ4_F2Cd_W42": {
+  "All or most of the time": "Professional ethics codes for dietitians require disclosure of relationships with food and supplement companies.",
+  "Some of the time": "Some dietitians disclose sponsorship deals on social media while others do not mention paid partnerships.",
+  "Only a little of the time": "Social media influencers with dietetics credentials have faced criticism for undisclosed brand sponsorships.",
+  "None of the time": "Some nutrition consultants have promoted supplement lines they personally profit from without disclosing the financial interest."
+ },
+ "PQ4_F2Ce_W42": {
+  "All or most of the time": "Dietitians are trained to develop individualized nutrition plans centered on each patient's specific health needs.",
+  "Some of the time": "Patient experiences with dietitians vary, with some describing highly personalized care and others receiving generic advice.",
+  "Only a little of the time": "Time constraints in clinical settings have been reported to limit the depth of individualized dietary counseling.",
+  "None of the time": "Some patients have reported dietitians pushing standardized meal plans regardless of individual medical circumstances."
+ },
+ "PQ5_F2C_W42": {
+  "A very big problem": "Consumer protection agencies have issued repeated warnings about unlicensed nutrition advisors selling harmful diet products.",
+  "A moderately big problem": "A moderate number of complaints against dietitians and nutrition counselors are filed with licensing boards each year.",
+  "A small problem": "Formal disciplinary actions against licensed dietitians remain rare relative to the size of the profession.",
+  "Not a problem at all": "Registered dietitian credentialing requires ongoing ethics training designed to prevent professional misconduct."
+ },
+ "PQ8_F2C_W42": {
+  "All or most of the time": "State licensing boards can revoke a dietitian's credential for proven ethical violations.",
+  "Some of the time": "Some dietitians face license suspension for misconduct while others in similar situations continue practicing unaffected.",
+  "Only a little of the time": "Unlicensed nutrition consultants operate outside formal licensing oversight in many jurisdictions.",
+  "None of the time": "Reports describe nutrition scammers who continued selling discredited products despite consumer complaints."
+ },
+ "SCM4a_W42": {
+  "Essential": "Applied medical research has directly produced vaccines and treatments that saved millions of lives within a generation.",
+  "Important, but not essential": "Applied research often improves daily life but society continues to function even when specific applied projects stall.",
+  "Not too important": "Public funding debates sometimes prioritize other sectors over applied science funding without major public backlash.",
+  "Not important at all": "Some public commentators argue immediate practical applications are overrated compared to long-term technological shifts."
+ },
+ "SCM4b_W42": {
+  "Essential": "Fundamental physics discoveries with no immediate use, such as early quantum theory, later enabled entire modern technology industries.",
+  "Important, but not essential": "Basic research budgets are often the first cut during funding shortfalls, suggesting it is valued but not prioritized as essential.",
+  "Not too important": "Many taxpayers express skepticism about funding research with no clear near-term payoff.",
+  "Not important at all": "Some policymakers have publicly mocked specific basic research grants as wasteful spending."
+ },
+ "POP2_W42": {
+  "A great deal of concern for how the policies affect people like you": "Elected officials regularly hold town halls specifically to gather public input before finalizing major policies.",
+  "Some concern for how the policies affect people like you": "Legislative processes formally include public comment periods, though final decisions often diverge from that input.",
+  "Not too much concern for how the policies affect people like you": "Surveys consistently show low public trust that government officials consider ordinary citizens when making policy.",
+  "No concern at all for how the policies affect people like you": "Reports of lobbying spending far exceeding public advocacy budgets suggest policy often favors well-funded interests."
+ },
+ "RACESURV13_W43": {
+  "Very likely": "Civil rights laws banning racial discrimination have been in place and enforced for decades in employment and housing.",
+  "Somewhat likely": "Measurable gaps in wealth and homeownership between racial groups have narrowed only gradually over recent decades.",
+  "Not too likely": "Persistent disparities in income, incarceration, and wealth between racial groups remain well documented in national statistics.",
+  "Not at all likely": "Some analysts point to entrenched structural factors that have shown little measurable change across multiple generations."
+ },
+ "RACESURV17_W43": {
+  "A great deal": "Academic research links historical slavery and segregation policies to present-day gaps in generational wealth.",
+  "A fair amount": "Some socioeconomic disparities are attributed partly to historical policy but also to more recent economic factors.",
+  "Not much": "Some commentators argue that decades of civil rights reforms have substantially reduced the relevance of historical factors today.",
+  "Not at all": "Some public voices argue that individual circumstances today are unrelated to events from over a century ago."
+ },
+ "RACESURV18c_W43": {
+  "Very well": "Interracial friendships and workplace collaboration have become increasingly common across American communities.",
+  "Pretty well": "Day-to-day interactions between racial groups are generally civil even amid broader societal tensions.",
+  "Not too well": "National news coverage regularly reports incidents of racial tension and protest activity.",
+  "Not at all well": "High-profile incidents of racially motivated violence have drawn sustained national attention in recent years."
+ },
+ "RACESURV47c_W43": {
+  "Always acceptable": "Some entertainment media has used the term in artistic or quoted contexts without significant backlash in certain circles.",
+  "Sometimes acceptable": "Some argue context, such as quoting historical documents or song lyrics, can make usage more acceptable in narrow cases.",
+  "Rarely acceptable": "Public figures who have used the term have frequently faced swift public backlash and formal apologies.",
+  "Never acceptable": "The word carries a well-documented history as a slur tied to slavery and racial violence in America."
+ },
+ "RACESURV48_W43": {
+  "Very important": "Many large corporations have established dedicated diversity, equity, and inclusion departments in recent years.",
+  "Somewhat important": "Diversity initiatives are widely adopted but often treated as a secondary priority behind core business operations.",
+  "Not too important": "Some companies have scaled back formal diversity programs citing cost and shifting business priorities.",
+  "Not at all important": "Some critics argue workplace diversity programs are unnecessary or counterproductive to merit-based hiring."
+ },
+ "INFOCONFUSEa_W45": {
+  "A great deal": "Deliberately fabricated stories have been shown to spread faster online than accurate news during major events.",
+  "Some": "Fact-checking organizations flag a steady but limited stream of deliberately false stories each month.",
+  "Not much": "Most widely shared news stories originate from established outlets with editorial fact-checking processes.",
+  "Not at all": "Social media platforms have implemented labeling systems specifically to flag and limit deliberately false content."
+ },
+ "INFOCONFUSEb_W45": {
+  "A great deal": "Satirical articles have occasionally been mistaken for real news and shared widely as factual reports.",
+  "Some": "Satire sites typically label their content as satire, though not all readers notice or heed the label.",
+  "Not much": "Long-running satire publications are widely recognized by their audiences as humor rather than factual reporting.",
+  "Not at all": "Satire is a well-established literary genre historically understood by readers as commentary rather than fact."
+ },
+ "INFOCONFUSEc_W45": {
+  "A great deal": "Early unverified reports during breaking news events have repeatedly turned out to be inaccurate in details later corrected.",
+  "Some": "News organizations often issue updates and corrections in the hours following an initial breaking story.",
+  "Not much": "Newsroom verification standards require at least some confirmation before a story is published, limiting major errors.",
+  "Not at all": "Wire services maintain established sourcing protocols intended to ensure baseline accuracy even under time pressure."
+ },
+ "INFOCONFUSEd_W45": {
+  "A great deal": "Media bias studies have documented outlets selectively emphasizing facts that support a particular political narrative.",
+  "Some": "Op-ed and analysis sections are commonly published alongside straight news reporting, sometimes blurring the distinction for readers.",
+  "Not much": "Many news organizations maintain formal separation between editorial opinion sections and factual news reporting.",
+  "Not at all": "Journalistic codes of ethics explicitly require balanced presentation of verified facts."
+ },
+ "INFOCONFUSEe_W45": {
+  "A great deal": "Deepfake technology has advanced to the point where altered videos are increasingly difficult to distinguish from real footage.",
+  "Some": "Doctored images occasionally circulate online before being debunked by fact-checkers within days.",
+  "Not much": "Reverse image search and forensic tools allow relatively quick detection of many altered images.",
+  "Not at all": "Major platforms have invested heavily in automated systems to detect and remove manipulated media."
+ },
+ "INFOCREATEa_W45": {
+  "A lot": "Several journalists throughout history have been caught fabricating entire sources and quotes in published stories.",
+  "Some": "A small number of high-profile journalistic fabrication scandals have occurred over past decades.",
+  "Not much": "Professional journalism relies on editorial fact-checking layers designed to catch fabricated content before publication.",
+  "None": "Journalism codes of ethics explicitly prohibit fabrication, with violations typically ending a reporter's career immediately."
+ },
+ "INFOCREATEb_W45": {
+  "A lot": "Political campaigns have been documented distributing misleading talking points designed to shape public perception.",
+  "Some": "Political spin and selective framing are common communication tactics, though outright fabrication is less frequent.",
+  "Not much": "Political staff generally operate under legal and reputational constraints that discourage outright fabrication.",
+  "None": "Official government communications are subject to public records laws that create accountability for false statements."
+ },
+ "INFOCREATEc_W45": {
+  "A lot": "Viral hoaxes and rumors created by ordinary social media users circulate widely before being debunked.",
+  "Some": "Occasional user-generated misinformation posts go viral, though most social media content is not deliberately false.",
+  "Not much": "Most individual social media users share content they believe to be true rather than deliberately fabricating it.",
+  "None": "Platform community guidelines prohibit users from knowingly posting false information, with enforcement mechanisms in place."
+ },
+ "INFOCREATEd_W45": {
+  "A lot": "Intelligence agencies have documented coordinated foreign disinformation campaigns targeting domestic elections.",
+  "Some": "Periodic reports identify foreign-linked accounts spreading misleading content around major political events.",
+  "Not much": "Social media platforms have taken down large numbers of foreign-linked accounts, reducing their visible reach.",
+  "None": "International cybercrime treaties and platform enforcement have made large-scale foreign disinformation harder to sustain."
+ },
+ "INFOCREATEe_W45": {
+  "A lot": "Advocacy groups on various sides of political issues have been caught circulating exaggerated or fabricated claims to support their cause.",
+  "Some": "Activist organizations sometimes amplify selectively framed information alongside factual campaign materials.",
+  "Not much": "Established advocacy organizations generally rely on documented research to maintain credibility with supporters.",
+  "None": "Reputable nonprofit organizations operate under public accountability standards that discourage fabricated claims."
+ },
+ "MADEUPTOPICa_W45": {
+  "A lot": "Election cycles have consistently seen surges of fabricated stories about candidates spread through social media.",
+  "Some": "Fact-checkers identify a recurring but limited number of false political claims during most election periods.",
+  "Not much": "Political journalism is subject to intense scrutiny from opposing campaigns, which discourages unchallenged fabrication.",
+  "None": "Major outlets covering politics operate dedicated fact-checking teams that quickly flag false claims."
+ },
+ "MADEUPTOPICb_W45": {
+  "A lot": "Celebrity death hoaxes and fabricated entertainment gossip circulate frequently on social media platforms.",
+  "Some": "Tabloid-style entertainment reporting occasionally includes unverified or exaggerated claims about celebrities.",
+  "Not much": "Celebrities and their representatives can quickly issue public denials that limit the spread of false claims.",
+  "None": "Entertainment news outlets face defamation liability risks that discourage publishing fabricated celebrity stories."
+ },
+ "MADEUPTOPICc_W45": {
+  "A lot": "Misleading claims about emerging technologies and scientific breakthroughs have spread widely on social media.",
+  "Some": "Occasional exaggerated science headlines circulate before being corrected by expert commentary.",
+  "Not much": "Peer review processes in scientific publishing filter out much fabricated content before it reaches the public.",
+  "None": "Science journalism increasingly includes expert review before publication to prevent inaccurate technical claims."
+ },
+ "MADEUPTOPICd_W45": {
+  "A lot": "False health claims about unproven remedies and treatments circulate widely, especially during public health crises.",
+  "Some": "Some misleading health claims appear online alongside a larger volume of accurate medical information.",
+  "Not much": "Medical and health platforms increasingly partner with health authorities to flag inaccurate health content.",
+  "None": "Regulatory bodies actively monitor and penalize false health claims made by commercial entities."
+ },
+ "MADEUPTOPICe_W45": {
+  "A lot": "False rumors and fabricated casualty figures have repeatedly spread rapidly online during shootings and natural disasters.",
+  "Some": "Emergency situations occasionally generate some unverified claims alongside official updates from authorities.",
+  "Not much": "Emergency management agencies now issue rapid official updates that quickly outpace most unverified rumors.",
+  "None": "Local news outlets covering emergencies typically rely directly on verified statements from law enforcement and officials."
+ },
+ "MADEUPTOPICf_W45": {
+  "A lot": "Fabricated stock tips and business rumors have been used to manipulate stock prices in documented pump-and-dump schemes.",
+  "Some": "Occasional exaggerated financial claims circulate on investment forums alongside legitimate analysis.",
+  "Not much": "Financial regulators actively investigate and prosecute market manipulation involving false business information.",
+  "None": "Publicly traded companies face strict disclosure laws that penalize the spread of materially false financial information."
+ },
+ "MADEUPLEVELa_W45": {
+  "A lot": "National political and cultural controversies attract intense online attention that includes significant amounts of fabricated commentary.",
+  "Some": "National news events generate a mix of accurate reporting and occasional unverified viral claims.",
+  "Not much": "National issues receive coverage from numerous major outlets whose competing scrutiny limits unchecked fabrication.",
+  "None": "High-profile national stories are typically verified by multiple independent news organizations before widespread acceptance."
+ },
+ "MADEUPLEVELb_W45": {
+  "A lot": "The decline of local newspapers has reduced professional fact-checking capacity for community-level stories.",
+  "Some": "Local community social media groups occasionally spread unverified rumors about nearby events or figures.",
+  "Not much": "Local issues typically draw less attention overall, giving fabricated content fewer opportunities to spread widely.",
+  "None": "Small communities often rely on direct personal knowledge that makes fabricated local claims easy to disprove."
+ },
+ "MADEUPIMPa_W45": {
+  "Big impact": "Public trust in government institutions has declined alongside the rise of viral misinformation online.",
+  "Moderate impact": "Surveys show declining institutional trust driven by many factors, of which misinformation is only one contributor.",
+  "Small impact": "Institutional trust levels have fluctuated historically even before the rise of modern digital misinformation.",
+  "No impact at all": "Government institutions maintain official communication channels that operate independently of viral misinformation trends."
+ },
+ "MADEUPIMPb_W45": {
+  "Big impact": "Widespread exposure to fabricated content about opposing groups has been linked to rising social polarization.",
+  "Moderate impact": "Interpersonal trust surveys show gradual shifts that correlate loosely with broader information ecosystem changes.",
+  "Small impact": "Most people report trusting close friends and family regardless of broader media misinformation trends.",
+  "No impact at all": "Interpersonal trust is shaped primarily by direct personal relationships rather than distant online content."
+ },
+ "MADEUPIMPc_W45": {
+  "Big impact": "Legislators have described having to spend significant time countering false narratives that disrupt policy negotiations.",
+  "Moderate impact": "Political communication now regularly includes rapid-response teams dedicated to correcting misinformation about policy issues.",
+  "Small impact": "Legislative processes continue to function through established institutional procedures regardless of online misinformation.",
+  "No impact at all": "Formal governmental deliberation occurs through official records and hearings insulated from viral online content."
+ },
+ "MADEUPIMPd_W45": {
+  "Big impact": "Journalists have reported spending substantial additional time verifying sources due to the volume of circulating false claims.",
+  "Moderate impact": "Newsroom fact-checking workloads have increased somewhat as digital misinformation has grown more common.",
+  "Small impact": "Professional journalists maintain established source networks that are largely unaffected by public misinformation trends.",
+  "No impact at all": "Investigative reporting relies on documented records and direct sourcing rather than publicly circulating claims."
+ },
+ "MADEUPIMPe_W45": {
+  "Big impact": "Local disputes fueled by online rumors have disrupted community meetings and collaborative problem-solving efforts.",
+  "Moderate impact": "Community organizations report occasional friction from misinformation but generally continue their planned activities.",
+  "Small impact": "Community problem-solving often relies on direct in-person engagement less susceptible to online misinformation.",
+  "No impact at all": "Local governance structures continue functioning through official meetings unaffected by broader online content trends."
+ },
+ "NEWSPROBa_W45": {
+  "A very big problem": "Studies estimate that a substantial share of adults have unknowingly shared fabricated news stories online.",
+  "A moderately big problem": "Fact-checking organizations report a steady, non-trivial volume of false stories requiring correction each month.",
+  "A small problem": "The majority of news consumption still comes from established outlets with editorial standards.",
+  "Not a problem at all": "Platform-level fact-checking labels have been deployed specifically to counter the spread of fabricated news."
+ },
+ "NEWSPROBb_W45": {
+  "A very big problem": "Surveys have found many adults struggle to reliably distinguish factual news reports from opinion commentary.",
+  "A moderately big problem": "Media literacy education has expanded in schools partly in response to public confusion between fact and opinion.",
+  "A small problem": "Most news outlets clearly label opinion and editorial sections separately from straight news reporting.",
+  "Not a problem at all": "Journalism standards bodies maintain formal guidelines distinguishing factual reporting from commentary."
+ },
+ "NEWSPROBc_W45": {
+  "A very big problem": "The proliferation of online news outlets and blogs has made it harder to identify which sources are reliable.",
+  "A moderately big problem": "Surveys report moderate consumer fatigue from the growing number of competing news sources available.",
+  "A small problem": "Aggregator apps and curated news feeds have simplified access despite the large number of underlying sources.",
+  "Not a problem at all": "Search engines and recommendation algorithms now help users quickly find relevant news regardless of source volume."
+ },
+ "NEWSPROBd_W45": {
+  "A very big problem": "Constant smartphone news alerts have been linked to reports of information overload and news fatigue among adults.",
+  "A moderately big problem": "Surveys show a meaningful share of adults say they sometimes feel worn out by the volume of daily news.",
+  "A small problem": "News aggregation and summary services have emerged specifically to help manage the volume of daily news.",
+  "Not a problem at all": "Many people follow only a small set of trusted outlets, limiting their exposure to excessive news volume."
+ },
+ "NEWSPROBe_W45": {
+  "A very big problem": "Surveys have found many Americans perceive growing bias in how journalists frame political coverage.",
+  "A moderately big problem": "Media watchdog groups periodically document instances of opinion language appearing within ostensibly neutral news stories.",
+  "A small problem": "Major news organizations maintain editorial standards intended to separate reporters' personal views from news coverage.",
+  "Not a problem at all": "Professional journalism codes of ethics explicitly require reporters to set aside personal opinions in news stories."
+ },
+ "INFOCHALa_W45": {
+  "A very big challenge": "Political polarization has widened sharply in recent years, with opposing sides increasingly distrusting each other's sources of information.",
+  "A moderately big challenge": "Partisan media outlets exist on both sides of the spectrum, contributing some but not all of the confusion around news accuracy.",
+  "A small challenge": "Fact-checking organizations operate across the political spectrum and are used by people regardless of party affiliation.",
+  "Not a challenge at all": "Many communities maintain shared local news sources that are trusted across political lines."
+ },
+ "INFOCHALb_W45": {
+  "A very big challenge": "Surveys show many adults spend little time verifying claims before sharing them online.",
+  "A moderately big challenge": "Some people occasionally check sources but do not do so consistently for every story they encounter.",
+  "A small challenge": "Media literacy programs have been introduced in many schools to teach source evaluation skills.",
+  "Not a challenge at all": "Public libraries and community organizations widely offer free resources for verifying news claims."
+ },
+ "INFOCHALc_W45": {
+  "A very big challenge": "National surveys have found large gaps in basic civic and current-events knowledge among the general public.",
+  "A moderately big challenge": "News consumption habits vary widely, leaving some segments of the public only partially informed.",
+  "A small challenge": "Smartphone adoption has made real-time news alerts available to nearly everyone.",
+  "Not a challenge at all": "Daily newspaper and broadcast news habits remain common among older, highly engaged citizens."
+ },
+ "INFOCHALd_W45": {
+  "A very big challenge": "Social media algorithms are designed to maximize engagement, often promoting sensational or misleading content.",
+  "A moderately big challenge": "Digital platforms have introduced some fact-checking labels, but enforcement remains inconsistent.",
+  "A small challenge": "Search engines increasingly prioritize authoritative sources in their ranking algorithms.",
+  "Not a challenge at all": "Digital tools now make it easy to trace an image or quote back to its original source."
+ },
+ "INFOCHALe_W45": {
+  "A very big challenge": "Advertising revenue models reward high click-through rates, incentivizing sensational or false headlines.",
+  "A moderately big challenge": "Some ad networks have begun restricting revenue to sites flagged for repeated misinformation.",
+  "A small challenge": "Many reputable news outlets rely on subscription models rather than ad-driven clickbait.",
+  "Not a challenge at all": "Nonprofit and publicly funded newsrooms operate without a profit incentive tied to sensational content."
+ },
+ "PP5a_W49": {
+  "Very confident": "Companies are legally required to publish privacy policies and can face lawsuits for violating them.",
+  "Somewhat confident": "Regulatory agencies periodically audit corporate data practices, providing partial assurance of compliance.",
+  "Not too confident": "Investigations have repeatedly found companies sharing user data in ways that contradict their stated privacy policies.",
+  "Not confident at all": "Several major data brokers have been found to sell personal information despite public privacy commitments."
+ },
+ "PP5b_W49": {
+  "Very confident": "Data breach notification laws in many states legally require companies to alert affected customers.",
+  "Somewhat confident": "Some companies have voluntary breach response teams that issue notifications within industry guidelines.",
+  "Not too confident": "News reports have documented companies delaying breach disclosures for months after discovery.",
+  "Not confident at all": "Several high-profile breaches were only revealed after journalists or researchers exposed them independently."
+ },
+ "PP5c_W49": {
+  "Very confident": "Some corporations have issued public apologies and executive testimony after data misuse scandals.",
+  "Somewhat confident": "Public relations departments are generally incentivized to address scandals to protect brand reputation.",
+  "Not too confident": "Corporate statements after data scandals often minimize responsibility or blame external actors.",
+  "Not confident at all": "Companies have frequently settled data misuse allegations without admitting any wrongdoing."
+ },
+ "PP5d_W49": {
+  "Very confident": "Consumer opt-out and privacy preference tools have become standard offerings on many platforms.",
+  "Somewhat confident": "Privacy settings menus have grown more detailed, giving users at least partial control over data use.",
+  "Not too confident": "Default settings on many apps and websites are configured to maximize data collection unless manually changed.",
+  "Not confident at all": "Personal data has repeatedly been found sold to third parties without clear user consent."
+ },
+ "PP5e_W49": {
+  "Very confident": "Government agencies have imposed record fines on technology companies for privacy violations.",
+  "Somewhat confident": "Some regulatory bodies have opened formal investigations into corporate data practices.",
+  "Not too confident": "Enforcement agencies are often described as understaffed relative to the scale of the technology industry.",
+  "Not confident at all": "Many privacy fines imposed on large corporations amount to a small fraction of their annual revenue."
+ },
+ "PP6a_W49": {
+  "Very comfortable": "Fraud prevention systems have measurably reduced financial losses from identity theft and card fraud.",
+  "Somewhat comfortable": "Banks routinely use transaction data for fraud alerts, a practice most customers have come to expect.",
+  "Not too comfortable": "Fraud detection systems sometimes flag legitimate transactions, causing frustrating account freezes.",
+  "Not comfortable at all": "Data collected for fraud prevention has occasionally been repurposed for unrelated marketing uses."
+ },
+ "PP6b_W49": {
+  "Very comfortable": "Anonymized data sharing with universities has contributed to public health and social science breakthroughs.",
+  "Somewhat comfortable": "Some research partnerships require ethics board approval, offering a degree of oversight.",
+  "Not too comfortable": "Cases have emerged where supposedly anonymized research data was later re-identified.",
+  "Not comfortable at all": "Personal data shared for research purposes has sometimes ended up accessible to unrelated third parties."
+ },
+ "PP6c_W49": {
+  "Very comfortable": "Product recommendation features are widely used and often described by consumers as convenient.",
+  "Somewhat comfortable": "Companies frequently justify data-driven product development as improving customer experience.",
+  "Not too comfortable": "Targeted advertising based on personal browsing history has drawn criticism for feeling invasive.",
+  "Not comfortable at all": "Reports of companies building detailed behavioral profiles for product design have raised public concern."
+ },
+ "PRIVACYREG_W49": {
+  "A great deal": "Comprehensive state privacy laws, such as those modeled on the California Consumer Privacy Act, have been widely publicized.",
+  "Some": "Media coverage of privacy legislation tends to be occasional and often limited to major incidents.",
+  "Very little": "Privacy law varies significantly by state and sector, making the overall regulatory landscape difficult to follow.",
+  "Not at all": "The United States lacks a single comprehensive federal data privacy law comparable to those in other countries."
+ },
+ "FACE2a_W49": {
+  "Very effective": "Facial recognition vendors have reported accuracy rates above 99 percent on standard identification benchmarks.",
+  "Somewhat effective": "Facial recognition is used operationally by airports and phone manufacturers for routine identity verification.",
+  "Not too effective": "Independent studies have found facial recognition systems make more errors under poor lighting or image quality conditions.",
+  "Not effective at all": "Documented cases exist of facial recognition systems leading to wrongful identification and arrest."
+ },
+ "FACE2b_W49": {
+  "Very effective": "Gender classification algorithms are trained on large labeled datasets and report high accuracy in vendor testing.",
+  "Somewhat effective": "Facial analysis tools are commercially deployed for demographic estimation in retail and marketing settings.",
+  "Not too effective": "Research has shown gender classification accuracy drops notably for certain demographic subgroups.",
+  "Not effective at all": "Studies have documented facial recognition systems misclassifying gender for transgender and non-binary individuals."
+ },
+ "FACE2c_W49": {
+  "Very effective": "Some facial analysis companies advertise high accuracy rates for race classification in their marketing materials.",
+  "Somewhat effective": "Facial recognition systems are used in some commercial applications that estimate demographic categories.",
+  "Not too effective": "Academic audits have found substantial disparities in facial recognition accuracy across racial groups.",
+  "Not effective at all": "Federal testing agencies have documented significantly higher error rates for facial recognition on darker-skinned faces."
+ },
+ "FACE3a_W49": {
+  "A great deal": "Some consumers appreciate personalized advertising and view targeted marketing as a helpful convenience.",
+  "Somewhat": "Advertising industry self-regulatory bodies have published guidelines around biometric data use.",
+  "Not too much": "Advertisers have faced criticism for using biometric data without clear consumer consent.",
+  "Not at all": "Advertising is a profit-driven industry with a documented history of prioritizing engagement over privacy."
+ },
+ "FACE3b_W49": {
+  "A great deal": "Major technology companies have invested heavily in ethical AI review boards and responsible use guidelines.",
+  "Somewhat": "Some technology companies have paused or limited facial recognition products following public criticism.",
+  "Not too much": "Technology companies have faced lawsuits for collecting biometric data without adequate user consent.",
+  "Not at all": "Internal company documents have occasionally revealed facial recognition data being used beyond its stated purpose."
+ },
+ "FACE3c_W49": {
+  "A great deal": "Facial recognition has helped law enforcement identify suspects in cases that were previously unsolved.",
+  "Somewhat": "Some police departments have adopted formal policies restricting when facial recognition can be used.",
+  "Not too much": "Multiple cities have banned police use of facial recognition after concerns about misuse.",
+  "Not at all": "Documented wrongful arrests linked to police facial recognition matches have drawn national media attention."
+ },
+ "FAMSURV6_W50": {
+  "Strongly favor": "Legal recognition of domestic partnerships has expanded steadily across many jurisdictions in recent decades.",
+  "Somewhat favor": "Public opinion polling shows growing but not universal support for extending legal protections to unmarried couples.",
+  "Somewhat oppose": "Some religious and traditionalist groups view marriage as the appropriate gateway to shared legal benefits.",
+  "Strongly oppose": "Certain advocacy organizations argue that extending marriage-like benefits undermines the institution of marriage itself."
+ },
+ "FAMSURV9a_W50": {
+  "Very important": "Financial stress is one of the most commonly cited reasons couples give for marital conflict and divorce.",
+  "Somewhat important": "Financial planning is commonly recommended by premarital counselors as one of several important factors.",
+  "Not too important": "Many couples marry successfully while still building their financial footing together afterward.",
+  "Not at all important": "Historical marriage patterns often involved couples marrying young, before achieving financial independence."
+ },
+ "FAMSURV9b_W50": {
+  "Very important": "Steady employment is frequently cited in surveys as a key marker of readiness for a long-term commitment.",
+  "Somewhat important": "Employment stability is one of several factors couples commonly weigh before marrying.",
+  "Not too important": "Dual-income households often allow one partner to pursue career changes without threatening the relationship.",
+  "Not at all important": "Many marriages have historically preceded stable careers, with couples building employment together over time."
+ },
+ "FAMSURV9c_W50": {
+  "Very important": "Homeownership is often viewed as a milestone of adult financial stability in many cultural narratives.",
+  "Somewhat important": "Some couples prioritize saving for a home as part of broader marriage preparation.",
+  "Not too important": "Rising home prices have made homeownership before marriage increasingly impractical for many young adults.",
+  "Not at all important": "Renting has become a common and widely accepted long-term housing arrangement for married couples."
+ },
+ "FAMSURV9e_W50": {
+  "Very important": "Mutual commitment is consistently ranked by researchers as the most cited foundation of successful marriages.",
+  "Somewhat important": "Relationship counselors commonly list commitment alongside several other factors in marriage readiness.",
+  "Not too important": "Some couples marry for practical reasons, such as immigration status or health benefits, without full emotional commitment.",
+  "Not at all important": "Arranged marriage traditions in various cultures do not require prior emotional commitment before the wedding."
+ },
+ "FAMSURV10a_W50": {
+  "Very important": "Shared living expenses can create significant strain when one partner is not financially stable.",
+  "Somewhat important": "Financial compatibility is commonly discussed as one factor among several before cohabitation.",
+  "Not too important": "Cohabitation is often used precisely as a lower-commitment step before achieving full financial stability.",
+  "Not at all important": "Many young couples move in together explicitly to reduce combined living costs while still building savings."
+ },
+ "FAMSURV10b_W50": {
+  "Very important": "A steady income is often necessary to reliably cover a shared lease or mortgage payment.",
+  "Somewhat important": "Employment status is one of several practical factors couples consider before combining households.",
+  "Not too important": "Some couples move in together during job transitions or while one partner returns to school.",
+  "Not at all important": "Cohabitation rates have risen among students and early-career adults who do not yet have steady jobs."
+ },
+ "FAMSURV10c_W50": {
+  "Very important": "Homeownership before cohabitation is sometimes seen as reducing financial risk if the relationship ends.",
+  "Somewhat important": "Some couples view a shared home purchase as a stronger signal of commitment than renting together.",
+  "Not too important": "The majority of cohabiting couples rent rather than own their shared residence.",
+  "Not at all important": "Cohabitation is frequently described as a flexible, lower-commitment arrangement that does not require homeownership."
+ },
+ "FAMSURV10e_W50": {
+  "Very important": "Moving in together is widely viewed as a significant relationship milestone requiring genuine commitment.",
+  "Somewhat important": "Surveys on cohabitation commonly list commitment as one of several relevant considerations.",
+  "Not too important": "Some couples cohabit primarily for convenience or cost-sharing rather than as a sign of deep commitment.",
+  "Not at all important": "Cohabitation has become common among casually dating couples testing relationship compatibility."
+ },
+ "FIN_SITMOST_W54": {
+  "Live comfortably": "National measures of consumer spending on discretionary goods have remained robust in various periods.",
+  "Meet their basic expenses with a little left over for extras": "Median household income data suggest many families can cover essentials with modest additional spending.",
+  "Just meet their basic expenses": "Surveys have found a large share of households report living paycheck to paycheck.",
+  "Don't even have enough to meet basic expenses": "Food bank usage and housing assistance applications have risen in various recent economic periods."
+ },
+ "ECON1_W54": {
+  "Excellent": "Periods of low unemployment and strong GDP growth have historically boosted public ratings of the economy.",
+  "Good": "Stock market indices reaching record highs are often cited as a positive economic signal.",
+  "Only fair": "Persistent inflation in everyday goods has weighed on consumer sentiment surveys in recent years.",
+  "Poor": "Rising costs of housing, groceries, and healthcare have been widely reported as straining household budgets."
+ },
+ "ECON3_a_W54": {
+  "A great deal": "Monthly jobs reports are closely tracked by media and markets as a key indicator of economic health.",
+  "A fair amount": "Unemployment figures are one of several economic indicators regularly cited in news coverage.",
+  "Not too much": "Low unemployment periods sometimes coincide with continued public dissatisfaction over other cost pressures.",
+  "Not at all": "Underemployment and part-time work have made headline job numbers feel disconnected from personal experience."
+ },
+ "ECON3_b_W54": {
+  "A great deal": "Stock market performance is frequently used by media outlets as shorthand for overall economic health.",
+  "A fair amount": "Retirement account balances tied to the stock market affect the financial outlook of a large share of households.",
+  "Not too much": "Only a minority of households directly own significant stock market investments outside retirement accounts.",
+  "Not at all": "Many lower-income households have little to no direct exposure to stock market fluctuations."
+ },
+ "ECON3_c_W54": {
+  "A great deal": "Grocery prices have risen noticeably in recent years, a cost felt by nearly every household weekly.",
+  "A fair amount": "Consumer price index reports on everyday goods are widely covered in economic news.",
+  "Not too much": "Some households have adjusted spending habits enough to offset the effect of rising consumer prices.",
+  "Not at all": "Higher-income households may notice price increases on goods without it significantly affecting their overall budget."
+ },
+ "ECON3_d_W54": {
+  "A great deal": "Medical debt is one of the leading causes of personal bankruptcy in the United States.",
+  "A fair amount": "Employer-based health insurance premiums have risen steadily, affecting take-home pay for many workers.",
+  "Not too much": "Some individuals with comprehensive employer or government coverage face limited direct healthcare costs.",
+  "Not at all": "Younger, healthier individuals often use minimal healthcare services and rarely encounter major medical bills."
+ },
+ "ECON3_e_W54": {
+  "A great deal": "Home prices have surged in many metropolitan areas, reshaping affordability and household wealth calculations.",
+  "A fair amount": "Rising home values are commonly cited as a factor in perceptions of household net worth.",
+  "Not too much": "Renters, who make up a substantial share of the population, are less directly affected by home value changes.",
+  "Not at all": "Many younger adults without property assets have little direct connection to real estate market shifts."
+ },
+ "ECON3_f_W54": {
+  "A great deal": "Gas prices are visibly posted on street corners, making fluctuations highly noticeable to consumers daily.",
+  "A fair amount": "Fuel costs affect commuting expenses for a large share of the working population.",
+  "Not too much": "Remote workers and public transit users may face less direct exposure to gas price changes.",
+  "Not at all": "Owners of electric vehicles are largely insulated from fluctuations in gasoline prices."
+ },
+ "ECON3_g_W54": {
+  "A great deal": "National debt levels are frequently discussed in political debates as a long-term economic concern.",
+  "A fair amount": "Budget deficit figures are reported periodically in major news coverage of federal spending.",
+  "Not too much": "The federal budget deficit has limited direct, visible effect on most people's daily financial lives.",
+  "Not at all": "Abstract fiscal statistics like the deficit rarely translate into a noticeable change in personal spending power."
+ },
+ "ECON3_h_W54": {
+  "A great deal": "Wage growth has failed to keep pace with inflation in several recent economic periods, according to labor statistics.",
+  "A fair amount": "Paycheck size is a directly experienced factor that shapes everyday financial decision-making.",
+  "Not too much": "Some workers in high-demand fields have seen consistent wage growth that outpaces living costs.",
+  "Not at all": "Retirees living on fixed pensions may be less directly affected by changes in current wage trends."
+ },
+ "ECON3_i_W54": {
+  "A great deal": "Tax policy changes directly affect take-home pay, making them a salient economic factor for many households.",
+  "A fair amount": "Annual tax filing season regularly renews public attention to how the tax system affects personal finances.",
+  "Not too much": "Simplified withholding systems mean many taxpayers rarely think about the tax code outside of filing season.",
+  "Not at all": "Automatic payroll deductions make the tax system largely invisible in day-to-day financial awareness."
+ },
+ "INEQ4_a_W54": {
+  "A lot": "Federal programs like Social Security and Medicaid already represent large-scale efforts to redistribute resources.",
+  "Some": "The federal government shares responsibility for economic policy with state and local governments and private markets.",
+  "Only a little": "Limited-government political traditions argue that markets, not federal policy, should primarily determine income outcomes.",
+  "None": "Some political philosophies hold that government intervention in the economy tends to create more problems than it solves."
+ },
+ "INEQ4_b_W54": {
+  "A lot": "State governments directly administer many social welfare and minimum wage programs affecting local inequality.",
+  "Some": "States often coordinate with federal programs rather than acting as the primary driver of inequality policy.",
+  "Only a little": "State budgets are typically smaller than federal budgets, limiting their capacity for large redistributive programs.",
+  "None": "Some argue that economic inequality is a national issue that falls outside the practical scope of state governments."
+ },
+ "INEQ4_c_W54": {
+  "A lot": "Corporate wage and hiring decisions directly shape income distribution across the workforce.",
+  "Some": "Businesses operate within a competitive market that shares influence over wages with broader economic forces.",
+  "Only a little": "Publicly traded companies have fiduciary duties to shareholders that can limit voluntary redistributive action.",
+  "None": "Some economic views hold that a corporation's core function is profit generation, not addressing societal inequality."
+ },
+ "INEQ4_d_W54": {
+  "A lot": "Religious organizations have long histories of running charity, food assistance, and poverty relief programs.",
+  "Some": "Faith-based charities contribute meaningfully to social services alongside government and secular programs.",
+  "Only a little": "Religious organizations generally operate with limited budgets compared to government-scale welfare programs.",
+  "None": "Separation of church and state principles lead some to view economic policy as outside religious institutions' role."
+ },
+ "INEQ4_e_W54": {
+  "A lot": "Prominent billionaires have publicly pledged large portions of their wealth to philanthropic causes.",
+  "Some": "Wealthy individuals contribute to charitable giving alongside broader systemic and policy factors.",
+  "Only a little": "Philanthropic giving, even when substantial, represents a small fraction of overall wealth inequality.",
+  "None": "Some argue that voluntary individual generosity cannot substitute for structural economic policy."
+ },
+ "INEQ5_a_W54": {
+  "Contributes a great deal": "Manufacturing job losses have been widely linked in economic research to companies moving production overseas.",
+  "Contributes a fair amount": "Outsourcing is one of several factors economists cite when explaining shifts in domestic wage structures.",
+  "Contributes not too much": "Many domestic service-sector jobs are not easily outsourced and remain unaffected by offshoring trends.",
+  "Contributes not at all": "Some industries have reshored production in recent years, reducing the prevalence of outsourcing in those sectors."
+ },
+ "INEQ5_b_W54": {
+  "Contributes a great deal": "Trade agreements have been blamed by some economists for accelerating job losses in certain manufacturing regions.",
+  "Contributes a fair amount": "Tariff and trade policy debates frequently reference effects on domestic wage competitiveness.",
+  "Contributes not too much": "Some economic analyses find trade policy has only modest effects compared to technological change.",
+  "Contributes not at all": "Export-driven industries have grown due to favorable trade agreements, benefiting some domestic workers."
+ },
+ "INEQ5_c_W54": {
+  "Contributes a great deal": "Automation has replaced significant numbers of routine manufacturing and clerical jobs in recent decades.",
+  "Contributes a fair amount": "Robotics adoption in warehouses and factories has changed the composition of available jobs.",
+  "Contributes not too much": "Many service and caregiving jobs remain difficult to automate and continue to employ large numbers of workers.",
+  "Contributes not at all": "Some industries have created new jobs specifically to build, maintain, and program automated systems."
+ },
+ "INEQ5_d_W54": {
+  "Contributes a great deal": "Some business groups argue that compliance costs from regulation reduce corporate investment in wages and hiring.",
+  "Contributes a fair amount": "Certain industries cite regulatory burden as one factor limiting expansion and job creation.",
+  "Contributes not too much": "Studies have found mixed evidence on the direct relationship between regulation levels and wage inequality.",
+  "Contributes not at all": "Some economists argue that regulation protects workers and consumers rather than driving inequality."
+ },
+ "INEQ5_e_W54": {
+  "Contributes a great deal": "Consumer advocacy groups argue weak antitrust enforcement has allowed corporate consolidation and wage suppression.",
+  "Contributes a fair amount": "Some analysts link limited financial oversight to income volatility following past market crises.",
+  "Contributes not too much": "Existing regulatory agencies already oversee major sectors like banking, labor, and consumer protection.",
+  "Contributes not at all": "Some view current regulatory frameworks as sufficiently comprehensive to prevent major systemic harms."
+ },
+ "INEQ5_f_W54": {
+  "Contributes a great deal": "Individual effort and work ethic are commonly emphasized in cultural narratives about economic success.",
+  "Contributes a fair amount": "Career advancement often correlates with additional hours worked or extra professional development.",
+  "Contributes not too much": "Research on income mobility has found structural factors often outweigh individual effort in determining outcomes.",
+  "Contributes not at all": "Studies have found many hardworking low-wage workers remain in poverty despite consistent effort."
+ },
+ "INEQ5_g_W54": {
+  "Contributes a great deal": "Analyses of the tax code have found that capital gains are often taxed at lower rates than wage income.",
+  "Contributes a fair amount": "Deductions and loopholes in the tax system disproportionately benefit higher-income filers, according to some studies.",
+  "Contributes not too much": "The tax system includes progressive brackets designed specifically to reduce income disparities.",
+  "Contributes not at all": "Refundable tax credits for lower-income families are structured to offset, not worsen, inequality."
+ },
+ "INEQ5_h_W54": {
+  "Contributes a great deal": "Decisions about education, career path, and family planning are often cited as shaping long-term earnings.",
+  "Contributes a fair amount": "Choices such as delaying a career for caregiving can measurably affect lifetime earnings.",
+  "Contributes not too much": "Research shows structural barriers can limit the range of choices available regardless of personal preference.",
+  "Contributes not at all": "Studies of income mobility often find birth circumstances outweigh individual life choices in predicting outcomes."
+ },
+ "INEQ5_i_W54": {
+  "Contributes a great deal": "Research on intergenerational mobility has found family wealth strongly predicts future economic opportunity.",
+  "Contributes a fair amount": "Access to quality schooling and social networks varies significantly based on family background.",
+  "Contributes not too much": "Some scholarship programs and public education systems are designed to level opportunity gaps.",
+  "Contributes not at all": "Numerous individuals from disadvantaged starting points have achieved significant economic success."
+ },
+ "INEQ5_j_W54": {
+  "Contributes a great deal": "School funding in many areas is tied to local property taxes, creating disparities between wealthy and poor districts.",
+  "Contributes a fair amount": "Access to advanced coursework and college counseling varies notably between different school systems.",
+  "Contributes not too much": "Federal and state funding programs exist specifically to support underfunded school districts.",
+  "Contributes not at all": "Community colleges and online education have expanded access to affordable schooling in recent years."
+ },
+ "INEQ5_k_W54": {
+  "Contributes a great deal": "Wage gap studies have documented persistent income disparities correlated with race and ethnicity.",
+  "Contributes a fair amount": "Housing and lending discrimination cases have historically limited wealth-building opportunities for minority communities.",
+  "Contributes not too much": "Civil rights laws enacted decades ago were designed specifically to prohibit discriminatory economic practices.",
+  "Contributes not at all": "Anti-discrimination enforcement agencies actively investigate and penalize employment discrimination complaints."
+ },
+ "INEQ5_l_W54": {
+  "Contributes a great deal": "Some labor economists argue an increased low-wage labor supply can suppress wages in certain industries.",
+  "Contributes a fair amount": "Certain sectors, like agriculture and construction, rely heavily on undocumented labor at lower wage rates.",
+  "Contributes not too much": "Many studies find limited overall wage effects from immigration once economic growth is accounted for.",
+  "Contributes not at all": "Research has found immigrant labor often fills roles with limited competition from native-born workers."
+ },
+ "INEQ5_m_W54": {
+  "Contributes a great deal": "Some argue increased legal labor supply in specific sectors can place downward pressure on entry-level wages.",
+  "Contributes a fair amount": "Legal immigration has grown in certain skilled sectors, changing local labor market competition.",
+  "Contributes not too much": "Economic research often finds legal immigrants contribute to overall economic growth with limited wage suppression.",
+  "Contributes not at all": "Legal immigrants frequently fill labor shortages in sectors with too few native-born applicants."
+ },
+ "INEQ6_W54": {
+  "A great deal": "Research on social mobility has consistently found family income strongly predicts children's future educational and career outcomes.",
+  "A fair amount": "Access to enrichment activities and tutoring often depends on a family's disposable income.",
+  "Not too much": "Public education and scholarship programs are designed to reduce the link between family income and success.",
+  "Not at all": "Numerous public figures have publicly attributed their success primarily to personal talent and effort rather than family wealth."
+ },
+ "INEQ8_a_W54": {
+  "A great deal": "Economic studies of past minimum wage increases have found measurable boosts to low-income workers' earnings.",
+  "A fair amount": "Some research finds minimum wage increases raise pay for a portion of the workforce without eliminating inequality entirely.",
+  "Not too much": "Critics note minimum wage increases affect only a small share of workers earning near that threshold.",
+  "Nothing at all": "Some economists argue minimum wage increases can lead employers to cut hours or jobs, offsetting income gains."
+ },
+ "INEQ8_b_W54": {
+  "A great deal": "Studies on free college programs have found increased enrollment among low-income students who previously could not afford tuition.",
+  "A fair amount": "Reducing tuition costs has been linked in some research to modest improvements in graduation rates for lower-income students.",
+  "Not too much": "Some analysts note that tuition is only one part of the cost of college, alongside housing and living expenses.",
+  "Nothing at all": "Critics argue that free tuition policies do not address underlying gaps in K-12 preparation that limit college success."
+ },
+ "INEQ8_c_W54": {
+  "A great deal": "Top marginal tax rates have fallen substantially over recent decades while wealth concentration has risen sharply.",
+  "A fair amount": "Historical episodes of higher top tax rates coincided with narrower gaps between top and median incomes.",
+  "Not too much": "Wealthy households often shift assets and income to avoid higher marginal tax rates, blunting redistributive effects.",
+  "Nothing at all": "Loopholes and offshore tax havens allow the very rich to shelter income regardless of stated tax rates."
+ },
+ "INEQ8_d_W54": {
+  "A great deal": "Medical debt is a leading cause of financial hardship for uninsured and underinsured families.",
+  "A fair amount": "Countries with universal healthcare coverage tend to show smaller gaps in life expectancy across income groups.",
+  "Not too much": "Healthcare costs make up only one part of the broader wealth gap driven by asset ownership and inheritance.",
+  "Nothing at all": "Expanding a government program does not by itself change the underlying distribution of wages and capital income."
+ },
+ "INEQ8_e_W54": {
+  "A great deal": "Workers with in-demand technical skills consistently earn significantly higher wages than those without them.",
+  "A fair amount": "Regions investing heavily in job retraining programs have seen modest reductions in local unemployment and wage gaps.",
+  "Not too much": "Automation continues to displace even highly skilled workers, limiting the payoff of retraining alone.",
+  "Nothing at all": "Wage stagnation has persisted even among workers who gained new certifications and technical training."
+ },
+ "INEQ8_f_W54": {
+  "A great deal": "Tuition costs at community colleges are often a major barrier preventing low-income students from enrolling.",
+  "A fair amount": "States that eliminated community college tuition saw enrollment increases among lower-income students.",
+  "Not too much": "Many low-income students already qualify for grants that cover most two-year tuition costs.",
+  "Nothing at all": "Two-year degrees carry lower average wage returns than four-year degrees, limiting their impact on income gaps."
+ },
+ "INEQ8_g_W54": {
+  "A great deal": "Student loan balances disproportionately burden lower-income and first-generation college graduates.",
+  "A fair amount": "Debt cancellation programs have been shown to modestly increase household spending and savings rates among recipients.",
+  "Not too much": "Much college debt is held by graduates who go on to earn above-median incomes, limiting redistributive impact.",
+  "Nothing at all": "Forgiving existing debt does nothing to address the rising cost of tuition that will burden future students."
+ },
+ "INEQ8_h_W54": {
+  "A great deal": "Undocumented labor is sometimes cited as depressing wages in certain low-skill job sectors.",
+  "A fair amount": "Some economic studies find modest wage effects on native low-skill workers from increased low-skill immigration.",
+  "Not too much": "Most economic research finds immigration status has little measurable effect on the broader national income distribution.",
+  "Nothing at all": "Economic inequality is driven mainly by capital ownership and executive pay, not by immigration status of workers."
+ },
+ "INEQ8_i_W54": {
+  "A great deal": "Direct cash assistance programs have been shown to substantially reduce poverty rates among recipients.",
+  "A fair amount": "Expanded benefit programs during recent crises reduced measured poverty rates for a period.",
+  "Not too much": "Benefit programs often phase out as income rises, creating disincentives that limit long-term income growth.",
+  "Nothing at all": "Government transfer programs address income shortfalls temporarily without changing underlying wage structures."
+ },
+ "INEQ8_j_W54": {
+  "A great deal": "Market concentration in several industries has been linked to reduced wage growth for workers in those sectors.",
+  "A fair amount": "Antitrust actions in the past have sometimes been followed by increased competition and modest wage gains.",
+  "Not too much": "Breaking up firms can create several smaller companies that still pay similarly to the original large one.",
+  "Nothing at all": "Corporate size is not the primary driver of the wage gap between executives and average workers."
+ },
+ "GAP21Q1_W82": {
+  "Very good": "Stock markets and employment figures have shown strong performance in recent reporting periods.",
+  "Somewhat good": "Unemployment rates have remained relatively low even as some sectors show signs of slower growth.",
+  "Somewhat bad": "Persistent inflation has eroded purchasing power for many households in recent years.",
+  "Very bad": "Rising costs of housing, food, and energy have placed severe strain on household budgets."
+ },
+ "GAP21Q3_W82": {
+  "Very satisfied": "Recent elections were conducted smoothly with high turnout and orderly transitions of power.",
+  "Somewhat satisfied": "Government institutions continue to function despite occasional gridlock and partisan disagreement.",
+  "Not too satisfied": "Public trust surveys show declining confidence in elected officials and legislative bodies.",
+  "Not at all satisfied": "Widespread claims of election fraud and political dysfunction have dominated recent news coverage."
+ },
+ "GAP21Q4_a_W82": {
+  "Very favorable": "The country offers strong civil liberties protections and a long history of democratic governance.",
+  "Somewhat favorable": "The nation maintains a large, diverse economy with significant global influence and innovation.",
+  "Somewhat unfavorable": "Recent domestic political polarization has drawn international criticism and concern.",
+  "Very unfavorable": "High rates of gun violence and social inequality have been widely reported in international media."
+ },
+ "GAP21Q4_b_W82": {
+  "Very favorable": "The country has lifted hundreds of millions of people out of poverty through rapid economic growth.",
+  "Somewhat favorable": "The nation has become a leading manufacturer of affordable consumer goods and technology worldwide.",
+  "Somewhat unfavorable": "Reports of human rights restrictions and censorship have drawn criticism from international observers.",
+  "Very unfavorable": "Documented mass detention of ethnic minorities has been condemned by numerous human rights organizations."
+ },
+ "GAP21Q4_c_W82": {
+  "Very favorable": "The country has a strong reputation for engineering quality and a robust social welfare system.",
+  "Somewhat favorable": "The nation plays a leading role in European economic and diplomatic cooperation.",
+  "Somewhat unfavorable": "Trade disputes over export policies have occasionally strained relations with trading partners.",
+  "Very unfavorable": "Disagreements over defense spending contributions have drawn criticism from allied nations."
+ },
+ "GAP21Q4_d_W82": {
+  "Very favorable": "The bloc has maintained decades of peace and economic integration among member states.",
+  "Somewhat favorable": "Cooperative trade agreements have generally benefited consumers and businesses across member countries.",
+  "Somewhat unfavorable": "Bureaucratic regulations from the bloc have been criticized as burdensome by some member states.",
+  "Very unfavorable": "Internal disputes over migration policy have created visible tension among member nations."
+ },
+ "GAP21Q4_e_W82": {
+  "Very favorable": "The organization coordinates humanitarian aid and peacekeeping missions across dozens of conflict zones.",
+  "Somewhat favorable": "The body provides a forum for diplomatic dialogue that has prevented some conflicts from escalating.",
+  "Somewhat unfavorable": "The organization has been criticized for slow or ineffective responses to major humanitarian crises.",
+  "Very unfavorable": "Security council vetoes have repeatedly blocked meaningful action on major international conflicts."
+ },
+ "GAP21Q4_f_W82": {
+  "Very favorable": "The alliance has maintained collective security among member nations for over seven decades.",
+  "Somewhat favorable": "Joint military exercises among member states have strengthened coordinated defense capabilities.",
+  "Somewhat unfavorable": "Disputes over member states' defense spending contributions have caused recurring friction.",
+  "Very unfavorable": "Critics argue the alliance drags member nations into costly overseas military commitments."
+ },
+ "GAP21Q12_W82": {
+  "A great deal": "Rapid vaccine development during a recent pandemic demonstrated strong scientific and logistical capacity.",
+  "Some": "Healthcare systems managed to expand hospital capacity during past emergencies despite significant strain.",
+  "Not too much": "Shortages of medical supplies and hospital beds were widely reported during a recent public health crisis.",
+  "None at all": "Uneven access to healthcare across income groups has left many without reliable emergency care options."
+ },
+ "GAP21Q13_a_W82": {
+  "It needs to be completely reformed": "Wealth inequality has reached levels not seen in nearly a century, prompting calls for systemic change.",
+  "It needs major changes": "Wage growth has failed to keep pace with corporate profit growth over recent decades.",
+  "It needs minor changes": "The economy continues to generate significant innovation and job creation despite some structural flaws.",
+  "It doesn't need to be changed": "The economy remains the largest in the world and continues to attract substantial global investment."
+ },
+ "GAP21Q13_b_W82": {
+  "It needs to be completely reformed": "Millions remain uninsured or underinsured despite the existence of extensive healthcare infrastructure.",
+  "It needs major changes": "Healthcare costs per capita are among the highest in the world despite mixed outcome measures.",
+  "It needs minor changes": "The system includes world-class hospitals and research institutions that attract patients internationally.",
+  "It doesn't need to be changed": "Medical innovation and specialist care remain widely available for those with adequate insurance coverage."
+ },
+ "GAP21Q13_c_W82": {
+  "It needs to be completely reformed": "Partisan gridlock has repeatedly blocked major legislation from passing in recent congressional sessions.",
+  "It needs major changes": "Campaign finance rules have allowed large donors to exert outsized influence over elected officials.",
+  "It needs minor changes": "Regular elections and peaceful transitions of power continue to occur on schedule.",
+  "It doesn't need to be changed": "Constitutional checks and balances have functioned to prevent any single branch from gaining unchecked power."
+ },
+ "GAP21Q14_W82": {
+  "Very confident": "Past constitutional amendments demonstrate that the political system can undergo significant structural change.",
+  "Somewhat confident": "Grassroots movements have historically succeeded in pushing through meaningful policy reforms over time.",
+  "Not too confident": "Legislative proposals for structural reform frequently stall in committee without reaching a vote.",
+  "Not at all confident": "Deep partisan polarization has made bipartisan agreement on reform measures increasingly rare."
+ },
+ "GAP21Q17_W82": {
+  "A great deal": "Extensive diplomatic consultation processes precede many major international policy announcements.",
+  "A fair amount": "Multilateral agreements are regularly negotiated with input from a range of allied nations.",
+  "Not too much": "Unilateral tariff and sanction decisions have sometimes been announced without consulting affected trade partners.",
+  "Not at all": "Withdrawal from international agreements has occurred despite objections from other participating countries."
+ },
+ "GAP21Q21_a_W82": {
+  "Very strong conflicts": "Recent election cycles have seen sharply divided public rallies and heated legislative confrontations.",
+  "Strong conflicts": "Surveys show a majority of voters view the opposing party unfavorably or as a threat to the country.",
+  "Not very strong conflicts": "Local communities often report cooperating across party lines on practical municipal issues.",
+  "There are not conflicts": "Bipartisan legislation continues to pass in some policy areas despite national rhetoric."
+ },
+ "GAP21Q21_b_W82": {
+  "Very strong conflicts": "Voting patterns show a stark divide between densely populated urban centers and rural counties.",
+  "Strong conflicts": "Debates over land use, gun policy, and agricultural subsidies often split along urban-rural lines.",
+  "Not very strong conflicts": "Many suburban areas blend urban and rural characteristics without strong political divides.",
+  "There are not conflicts": "Infrastructure and trade policies often benefit both urban and rural areas simultaneously."
+ },
+ "GAP21Q21_c_W82": {
+  "Very strong conflicts": "Debates over religious exemptions in law have generated intense public disagreement in recent years.",
+  "Strong conflicts": "Surveys show growing numbers of religiously unaffiliated adults alongside a persistent religious population.",
+  "Not very strong conflicts": "Interfaith and secular communities frequently collaborate on charitable and civic initiatives.",
+  "There are not conflicts": "Constitutional protections for religious freedom apply equally regardless of belief or nonbelief."
+ },
+ "GAP21Q21_d_W82": {
+  "Very strong conflicts": "Widespread protests over racial injustice have drawn large, sometimes confrontational crowds in recent years.",
+  "Strong conflicts": "Persistent disparities in income, incarceration, and health outcomes correlate strongly with racial background.",
+  "Not very strong conflicts": "Increasing rates of interracial marriage and diverse neighborhoods suggest growing social integration.",
+  "There are not conflicts": "Legal protections against racial discrimination have been in place for decades across all major institutions."
+ },
+ "GAP21Q21_e_W82": {
+  "Very strong conflicts": "Disputes between different faith traditions have occasionally escalated into public confrontations.",
+  "Strong conflicts": "Religious minorities have reported rising incidents of harassment tied to their specific faith practices.",
+  "Not very strong conflicts": "Interfaith dialogue programs have expanded in many communities to foster mutual understanding.",
+  "There are not conflicts": "Constitutional separation of church and state limits official conflict between religious groups."
+ },
+ "GAP21Q23_W82": {
+  "Very serious problem": "Data consistently show significant disparities in income, incarceration rates, and policing outcomes by race.",
+  "Somewhat serious problem": "Occasional high-profile incidents of alleged discrimination continue to draw national media attention.",
+  "Not too serious problem": "Anti-discrimination laws have been enforced for decades and workplace diversity programs are widespread.",
+  "Not a problem at all": "Legal equality under the law has existed for all racial groups for several generations."
+ },
+ "GAP21Q26_a_W82": {
+  "Very good job": "Recent investments in renewable energy infrastructure have expanded solar and wind capacity significantly.",
+  "Somewhat good job": "New emissions regulations on vehicles and power plants have been implemented in recent years.",
+  "Somewhat bad job": "Withdrawal from international climate agreements has occurred at least once in recent history.",
+  "Very bad job": "Carbon emissions remain among the highest per capita of any major economy in the world."
+ },
+ "GAP21Q26_b_W82": {
+  "Very good job": "International climate summits organized by the body have produced binding emissions reduction agreements.",
+  "Somewhat good job": "Regular reporting on global climate science has raised public awareness of the issue worldwide.",
+  "Somewhat bad job": "Many member nations have failed to meet the voluntary emissions targets set in past agreements.",
+  "Very bad job": "Global emissions have continued to rise despite decades of international climate negotiations."
+ },
+ "GAP21Q26_c_W82": {
+  "Very good job": "Massive investment in solar panel manufacturing and electric vehicle production has expanded rapidly there.",
+  "Somewhat good job": "Reforestation and renewable energy targets have been announced as part of national five-year plans.",
+  "Somewhat bad job": "The country continues to approve new coal-fired power plants to meet growing energy demand.",
+  "Very bad job": "The nation remains the largest single emitter of greenhouse gases in the world today."
+ },
+ "GAP21Q26_d_W82": {
+  "Very good job": "Member states have committed to some of the most ambitious emissions reduction targets globally.",
+  "Somewhat good job": "Carbon pricing and emissions trading systems have been in operation across the bloc for years.",
+  "Somewhat bad job": "Some member nations continue to rely heavily on coal for a significant share of electricity generation.",
+  "Very bad job": "Internal disagreements among member states have slowed adoption of unified climate policy measures."
+ },
+ "GAP21Q28_W82": {
+  "Very confident": "Rapid declines in renewable energy costs have accelerated the global shift away from fossil fuels.",
+  "Somewhat confident": "A growing number of countries have pledged net-zero emissions targets for coming decades.",
+  "Not too confident": "Global emissions have continued to rise despite repeated international pledges to reduce them.",
+  "Not at all confident": "Scientific reports indicate that current national commitments fall well short of targets needed to limit warming."
+ },
+ "GAP21Q31_W82": {
+  "Very important": "International reputation strongly affects a nation's ability to form trade partnerships and alliances.",
+  "Somewhat important": "Global public opinion surveys are sometimes cited by policymakers when shaping foreign policy decisions.",
+  "Not too important": "Domestic economic and security priorities often take precedence over international image concerns.",
+  "Not at all important": "Some political leaders have publicly dismissed concerns about how the country is perceived abroad."
+ },
+ "GAP21Q38_a_W82": {
+  "A great deal": "Shared intelligence and coordinated defense spending among member nations reduce individual security costs.",
+  "A fair amount": "Joint military exercises have improved interoperability among allied armed forces over decades.",
+  "Not too much": "Disputes over unequal financial contributions among member nations have persisted for years.",
+  "Not at all": "Critics argue the alliance obligates costly military commitments with limited direct domestic benefit."
+ },
+ "GAP21Q38_b_W82": {
+  "A great deal": "The organization provides a forum for resolving international disputes without resorting to armed conflict.",
+  "A fair amount": "Membership grants a permanent seat with veto power on the security council for some nations.",
+  "Not too much": "Funding obligations to the organization are substantial relative to the practical influence gained.",
+  "Not at all": "Security council gridlock has often prevented the organization from acting on pressing international crises."
+ },
+ "GAP21Q38_c_W82": {
+  "A great deal": "Coordinated global responses to disease outbreaks rely heavily on shared health data and guidance.",
+  "A fair amount": "Vaccine distribution programs coordinated internationally have helped control several past outbreaks.",
+  "Not too much": "Criticism arose over delayed reporting and coordination failures during a recent pandemic response.",
+  "Not at all": "Some political leaders have withdrawn funding or support, citing concerns about the organization's independence."
+ },
+ "GAP21Q41_W82": {
+  "Very good": "Bilateral trade volume between the two countries remains among the largest in the world.",
+  "Somewhat good": "Supply chains in electronics and manufacturing remain deeply integrated between the two economies.",
+  "Somewhat bad": "Tariffs imposed on billions of dollars of goods have strained trade relations in recent years.",
+  "Very bad": "Restrictions on technology exports and investment have escalated tensions between the two economies."
+ },
+ "GAP21Q43_a_W82": {
+  "Very serious problem": "Manufacturing employment has declined sharply in regions that faced increased import competition.",
+  "Somewhat serious problem": "Certain industries have reported job losses linked to outsourcing production overseas.",
+  "Not too serious of a problem": "New jobs in technology and services have offset some losses in traditional manufacturing sectors.",
+  "Not a problem at all": "Automation, rather than trade, accounts for the majority of manufacturing job losses according to many analyses."
+ },
+ "GAP21Q43_b_W82": {
+  "Very serious problem": "The trade deficit with the country has reached tens of billions of dollars annually in recent years.",
+  "Somewhat serious problem": "Persistent trade imbalances have been cited by policymakers as justification for tariff measures.",
+  "Not too serious of a problem": "Economists note trade deficits can reflect strong consumer demand rather than economic weakness.",
+  "Not a problem at all": "Access to inexpensive imported goods has benefited consumer purchasing power domestically."
+ },
+ "GAP21Q43_c_W82": {
+  "Very serious problem": "Documented mass detention camps for ethnic minorities have been widely reported by international observers.",
+  "Somewhat serious problem": "Restrictions on press freedom and internet access have been reported in official government policy.",
+  "Not too serious of a problem": "Domestic economic priorities often take precedence over foreign human rights concerns in policy discussions.",
+  "Not a problem at all": "Trade and diplomatic relations have continued largely uninterrupted despite human rights criticisms."
+ },
+ "GAP21Q43_d_W82": {
+  "Very serious problem": "Increased military exercises and aircraft incursions near the strait have raised alarm among security analysts.",
+  "Somewhat serious problem": "Diplomatic statements reaffirming commitments to regional allies have grown more frequent in recent years.",
+  "Not too serious of a problem": "Decades of tension in the region have not escalated into direct military conflict.",
+  "Not a problem at all": "Extensive economic ties between the two sides create strong incentives to avoid armed conflict."
+ },
+ "GAP21Q43_e_W82": {
+  "Very serious problem": "Government agencies have attributed several major data breaches to state-sponsored hacking groups.",
+  "Somewhat serious problem": "Cybersecurity firms have reported a rise in intrusion attempts targeting critical infrastructure.",
+  "Not too serious of a problem": "Improved cybersecurity defenses have reduced the success rate of many attempted intrusions.",
+  "Not a problem at all": "Cyberattacks are difficult to attribute definitively to any single nation with full certainty."
+ },
+ "GAP21Q43_f_W82": {
+  "Very serious problem": "Rapid expansion of naval fleets and missile capabilities has been documented in recent defense reports.",
+  "Somewhat serious problem": "Increased defense spending has funded new aircraft carriers and advanced weapons systems.",
+  "Not too serious of a problem": "Military spending as a share of the economy remains below levels of some other major powers.",
+  "Not a problem at all": "Extensive diplomatic and economic engagement has continued despite military modernization efforts."
+ },
+ "GAP21Q43_g_W82": {
+  "Very serious problem": "Rapid advances in artificial intelligence and semiconductor development have narrowed the technology gap.",
+  "Somewhat serious problem": "Large government investment in research and development has funded numerous emerging technology sectors.",
+  "Not too serious of a problem": "Restrictions on access to advanced semiconductor manufacturing equipment have limited some technological progress.",
+  "Not a problem at all": "Continued reliance on foreign technology components suggests limited full technological independence."
+ },
+ "GAP21Q43_h_W82": {
+  "Very serious problem": "Large pro-democracy protests were met with significant security crackdowns in recent years.",
+  "Somewhat serious problem": "New national security legislation has curtailed some previously guaranteed civil liberties in the territory.",
+  "Not too serious of a problem": "The territory continues to function as a major international financial and business hub.",
+  "Not a problem at all": "Trade and travel between the territory and the mainland continue largely without disruption."
+ },
+ "GAP21Q47_W82": {
+  "Strongly support limiting Chinese students": "Several cases of alleged academic espionage involving foreign nationals have been prosecuted in recent years.",
+  "Somewhat support limiting Chinese students": "National security officials have expressed concern over foreign access to sensitive research fields.",
+  "Somewhat oppose limiting Chinese students": "International students contribute significantly to university research output and tuition revenue.",
+  "Strongly oppose limiting Chinese students": "Academic exchange programs have historically fostered valuable scientific collaboration across borders."
+ },
+ "WHADVANT_W92": {
+  "A great deal": "Data show persistent gaps in wealth, homeownership, and hiring outcomes correlated with racial background.",
+  "A fair amount": "Historical policies such as redlining have had documented long-term effects on generational wealth accumulation.",
+  "Not too much": "Civil rights laws enacted decades ago established equal legal protections regardless of race.",
+  "Not at all": "Individual examples of success across racial groups are frequently cited as evidence that opportunity is broadly equal."
+ },
+ "FREECOLL_W92": {
+  "Strongly favor": "Rising tuition costs have left many graduates with substantial student loan debt burdens.",
+  "Somewhat favor": "Some countries with free public university systems report higher rates of degree completion among low-income students.",
+  "Somewhat oppose": "Free tuition programs would require significant new tax revenue or government spending increases.",
+  "Strongly oppose": "Concerns exist that eliminating tuition costs could reduce incentives for students to complete their degrees efficiently."
+ },
+ "ELITEUNDMOD_W92": {
+  "Very well": "Several elected officials have publicly shared personal experiences resembling those of average constituents.",
+  "Somewhat well": "Town hall meetings and constituent services allow some direct communication between officials and citizens.",
+  "Not too well": "Many lawmakers come from wealthy backgrounds that differ substantially from the average household's finances.",
+  "Not at all well": "Survey after survey shows large majorities believe elected officials are out of touch with ordinary citizens."
+ },
+ "POLINTOL2_a_W92": {
+  "Very comfortable": "Conservative media outlets and rallies continue to draw large, vocal, public audiences nationwide.",
+  "Somewhat comfortable": "Elected officials from the party regularly hold public press conferences to state their positions.",
+  "Not too comfortable": "Some individuals have reported facing social or professional backlash for expressing conservative viewpoints publicly.",
+  "Not at all comfortable": "Surveys show a notable share of conservatives report self-censoring their political opinions in public settings."
+ },
+ "POLINTOL2_b_W92": {
+  "Very comfortable": "Progressive activism and public demonstrations have become increasingly visible in recent years.",
+  "Somewhat comfortable": "Many public institutions and media platforms have expanded space for progressive viewpoints.",
+  "Not too comfortable": "Some individuals have reported facing harassment or threats after expressing progressive opinions online.",
+  "Not at all comfortable": "Surveys show a portion of liberals report reluctance to voice political opinions in certain social settings."
+ },
+ "ELECT_IMPT3_PRVFR_W92": {
+  "Very important": "Concerns about voter fraud have driven the passage of stricter voter identification laws in several states.",
+  "Somewhat important": "Election security measures have been expanded following public debate over ballot integrity.",
+  "Not too important": "Multiple independent audits have found documented cases of voter fraud to be extremely rare.",
+  "Not at all important": "Studies consistently show ineligible voting occurs at negligible rates in national elections."
+ },
+ "ELECT_IMPT3_PRVSUP_W92": {
+  "Very important": "Long lines and limited polling locations have historically discouraged eligible voters from casting ballots.",
+  "Somewhat important": "Expanded mail-in and early voting options have made ballot access easier in many areas.",
+  "Not too important": "Most eligible voters already have multiple convenient options available to cast a ballot.",
+  "Not at all important": "Turnout rates have remained similar even as ballot access rules have changed over time."
+ },
+ "ELECT_CONF3_PRVFR_W92": {
+  "Very confident": "New voter identification requirements have been implemented specifically to prevent ineligible voting.",
+  "Somewhat confident": "Election officials use voter registration databases to cross-check eligibility before ballots are counted.",
+  "Not too confident": "Reports of outdated voter rolls have raised questions about the accuracy of eligibility checks.",
+  "Not at all confident": "Some political figures have publicly claimed that ineligible voting goes largely undetected."
+ },
+ "ELECT_CONF3_PRVSUP_W92": {
+  "Very confident": "Expanded early voting and mail ballot options have made casting a vote easier for eligible residents.",
+  "Somewhat confident": "Most polling places report smooth operations with only isolated access issues on election day.",
+  "Not too confident": "Reports of long lines and limited polling stations in some areas have raised access concerns.",
+  "Not at all confident": "Advocacy groups have documented specific instances where eligible voters were turned away or purged from rolls."
+ },
+ "CANDEXP_W92": {
+  "Very important": "Officials with prior government experience often navigate complex legislative processes more effectively.",
+  "Somewhat important": "Some experienced officials bring valuable institutional knowledge to complex policy negotiations.",
+  "Not too important": "Several successful leaders have come from business or military backgrounds without prior government roles.",
+  "Not at all important": "Public frustration with career politicians has fueled support for outsider candidates in recent elections."
+ },
+ "UNIMMIGCOMM_W92": {
+  "A lot better": "Immigrant-owned small businesses have revitalized commercial districts in several struggling towns.",
+  "A little better": "Some local economies have benefited from additional low-cost labor in agriculture and construction sectors.",
+  "A little worse": "Some school districts and local services report strain from rapid increases in unplanned population growth.",
+  "A lot worse": "Local officials in some border communities have reported strained public services and increased costs."
+ },
+ "GODMORALIMP_W92": {
+  "Essential": "Many religious traditions teach that moral behavior is fundamentally grounded in belief in a higher power.",
+  "Important, but not essential": "Many religious communities value faith as a strong moral guide while acknowledging good people outside the faith.",
+  "Not too important": "Rising numbers of religiously unaffiliated people report holding strong personal ethical standards.",
+  "Not at all important": "Secular ethical philosophies have long provided frameworks for morality independent of religious belief."
+ },
+ "REPRSNTREP_W92": {
+  "Very well": "Party platforms consistently emphasize lower taxes and reduced regulation favored by many small business owners.",
+  "Somewhat well": "The party has maintained a stable base of support across many rural and suburban districts.",
+  "Not too well": "Some party voters have expressed frustration that leadership prioritizes donors over grassroots concerns.",
+  "Not at all well": "Polling has shown declining trust in both major parties among a growing share of independent voters."
+ },
+ "REPRSNTDEM_W92": {
+  "Very well": "The party has championed expanded healthcare and social program legislation favored by many supporters.",
+  "Somewhat well": "The party has maintained broad coalitions across urban and diverse demographic groups.",
+  "Not too well": "Some progressive voters have criticized party leadership for insufficiently bold policy action.",
+  "Not at all well": "Polling has shown declining trust in both major parties among a growing share of independent voters."
+ }
+}
