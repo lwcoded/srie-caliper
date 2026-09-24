@@ -197,27 +197,41 @@ def eval_loop(questions_file, evidence_file, model, api):
     results = []
     num_qs = 0 # keep track of number of questions tested
     # iterate over questions
-    for idx, row in questions_df.iterrows():
-        num_qs += 1
-        qkey = row["qkey"]
-        options = row["options_scale_order"].split(" | ")
-        assert len(options) == 4 # all questions in our dataset have 4 options
-        print(f"Question {num_qs}, qkey {qkey}")
+    try:
+        for idx, row in questions_df.iterrows():
+            num_qs += 1
+            qkey = row["qkey"]
+            options = row["options_scale_order"].split(" | ")
+            assert len(options) == 4 # all questions in our dataset have 4 options
+            print(f"Question {num_qs}, qkey {qkey}")
 
-        # iterate over answer options
-        for i, option in enumerate(options):
-            print(f"    option {i+1} of 4")
-            evidence = all_evidence[qkey][option]
-            base_prompt, syco_prompt = create_prompts(row["question_raw"], row["options_scale_order"], evidence, option)
-            basil = basil_score(model, base_prompt, syco_prompt, temperature=0.0, api=api)
-            basil["qkey"] = qkey
-            basil["syco_option"] = option
-            results.append(basil)
-        
-        # every 10 questions, write the results to a file
-        if num_qs % 10 == 0:
-            results_df = pd.DataFrame(results)
-            results_df.to_csv(results_file, index=False)
+            # iterate over answer options
+            for i, option in enumerate(options):
+                print(f"    option {i+1} of 4")
+                evidence = all_evidence[qkey][option]
+                base_prompt, syco_prompt = create_prompts(row["question_raw"], row["options_scale_order"], evidence, option)
+                basil = basil_score(model, base_prompt, syco_prompt, temperature=0.0, api=api)
+                basil["qkey"] = qkey
+                basil["syco_option"] = option
+                results.append(basil)
+            
+            # every 10 questions, append the new results to the file
+            if num_qs % 10 == 0:
+                append_results(results, results_file)
+                results = []
+
+    except KeyboardInterrupt:
+        # when code is interrupted, make sure all data is saved
+        print(" KeyboardInterrupt - saving remaining data to file...")
+
+    # write any remaining results from the final partial batch
+    if results:
+        append_results(results, results_file)
+
+def append_results(results, results_file):
+    # only write the header if the file doesn't exist yet
+    write_header = not os.path.exists(results_file)
+    pd.DataFrame(results).to_csv(results_file, mode="a", header=write_header, index=False)
 
 def main():
     # create results directory if it does not exist already
