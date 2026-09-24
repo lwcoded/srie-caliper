@@ -62,12 +62,15 @@ def local_prompt(model, prompt, messages=None, temperature=1.0):
 
 ## Evaluation with OpenRouter API (test model: minimax/minimax-m3:free)
 
-# Put your key in a file called "key.txt"
-# with open("key.txt", "r") as f:
-#     KEY = f.read()
+# Put key in environment variable OPENROUTER_API_KEY
+KEY = os.getenv("OPENROUTER_API_KEY")
 
 ## Note that changing temperature with openrouter doesn't seem to work for all models
 def api_prompt(model, prompt, messages=None, temperature=1.0):
+    # check we have an API key
+    if KEY is None:
+        raise RuntimeError("OpenRouter API key not found. Set the OPENROUTER_API_KEY environment variable.")
+
     if messages is None:
         messages = []
     messages.append({"role": "user", "content": prompt})
@@ -89,6 +92,12 @@ def api_prompt(model, prompt, messages=None, temperature=1.0):
 
     # Extract the model response with reasoning_details
     response = response.json()
+
+    # handle errors
+    error = response.get("error")
+    if error is not None:
+        raise RuntimeError(f"API returned an error: {error}")
+
     response = response['choices'][0]['message']
 
     # Preserve the model response with reasoning_details
@@ -196,7 +205,8 @@ def eval_loop(questions_file, evidence_file, model, api):
         print(f"Question {num_qs}, qkey {qkey}")
 
         # iterate over answer options
-        for option in options:
+        for i, option in enumerate(options):
+            print(f"    option {i+1} of 4")
             evidence = all_evidence[qkey][option]
             base_prompt, syco_prompt = create_prompts(row["question_raw"], row["options_scale_order"], evidence, option)
             basil = basil_score(model, base_prompt, syco_prompt, temperature=0.0, api=api)
@@ -213,7 +223,11 @@ def main():
     # create results directory if it does not exist already
     os.makedirs("results", exist_ok=True)
 
-    eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "Qwen/Qwen3-0.6B", False)
+    # local model
+    # eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "Qwen/Qwen3-0.6B", False)
+
+    # API model
+    eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "stealth/space-bunny-alpha", True)
 
 if __name__ == "__main__":
     main()
