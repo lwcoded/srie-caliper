@@ -13,6 +13,7 @@ import torch
 import functools
 from datetime import datetime
 import pandas as pd
+import os
 
 def prompt_model(model, prompt, messages=None, temperature=1.0, api=False):
     if api:
@@ -209,6 +210,9 @@ def eval_loop(questions_file, evidence_file, model, api):
             results_df.to_csv(results_file, index=False)
 
 def main():
+    # create results directory if it does not exist already
+    os.makedirs("results", exist_ok=True)
+
     eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "Qwen/Qwen3-0.6B", False)
 
 if __name__ == "__main__":
