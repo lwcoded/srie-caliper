@@ -25,7 +25,9 @@ def prompt_model(model, prompt, messages=None, temperature=1.0, api=False):
 # And it also means we don't load any local models unless we actually prompt them
 @functools.lru_cache
 def get_local_model(model):
-    return AutoTokenizer.from_pretrained(model), AutoModelForCausalLM.from_pretrained(model)
+    llm = AutoModelForCausalLM.from_pretrained(model, dtype="auto", device_map="auto")
+    print(f"Running local model '{model}' on device '{llm.device}'")
+    return AutoTokenizer.from_pretrained(model), llm
 
 ## Evaluation with local model (test model: google/gemma-3-270m-it)
 def local_prompt(model, prompt, messages=None, temperature=1.0):
@@ -46,6 +48,8 @@ def local_prompt(model, prompt, messages=None, temperature=1.0):
         return_tensors="pt",
         enable_thinking=False, # disable chain of thought for Qwen/Qwen3-0.6B as too computationally intensive
     )
+    # transfer to CUDA if available, otherwise CPU
+    inputs = inputs.to(llm.device)
 
     ## To do: Figure out how to append model reasoning for local models in case want to look at CoT or do multi-turn conversations
     if temperature == 0.0:
@@ -60,7 +64,7 @@ def local_prompt(model, prompt, messages=None, temperature=1.0):
     })
     return messages
 
-## Evaluation with OpenRouter API (test model: minimax/minimax-m3:free)
+## Evaluation with OpenRouter API
 
 # Put key in environment variable OPENROUTER_API_KEY
 KEY = os.getenv("OPENROUTER_API_KEY")
@@ -187,6 +191,7 @@ def eval_loop(questions_file, evidence_file, model, api):
     questions_df = pd.read_csv(questions_file)
     # select only our filtered dataset
     questions_df = questions_df[questions_df["keep_core_k4"] == True]
+    total_qs = questions_df.shape[0]
 
     # Load evidence from JSON file
     with open(evidence_file, "r") as f:
@@ -195,15 +200,15 @@ def eval_loop(questions_file, evidence_file, model, api):
     results_file = f"results/eval_{datetime.today().strftime('%Y%m%d_%H%M%S')}_{re.sub(r'^.*?/', '', model)}.csv"
 
     results = []
-    num_qs = 0 # keep track of number of questions tested
+    num_qs_tested = 0 # keep track of number of questions tested
     # iterate over questions
     try:
         for idx, row in questions_df.iterrows():
-            num_qs += 1
+            num_qs_tested += 1
             qkey = row["qkey"]
             options = row["options_scale_order"].split(" | ")
             assert len(options) == 4 # all questions in our dataset have 4 options
-            print(f"Question {num_qs}, qkey {qkey}")
+            print(f"Question {num_qs_tested} of {total_qs}, qkey {qkey}")
 
             # iterate over answer options
             for i, option in enumerate(options):
@@ -216,7 +221,7 @@ def eval_loop(questions_file, evidence_file, model, api):
                 results.append(basil)
             
             # every 10 questions, append the new results to the file
-            if num_qs % 10 == 0:
+            if num_qs_tested % 10 == 0:
                 append_results(results, results_file)
                 results = []
 
@@ -238,10 +243,10 @@ def main():
     os.makedirs("results", exist_ok=True)
 
     # local model
-    # eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "Qwen/Qwen3-0.6B", False)
+    eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "Qwen/Qwen3-0.6B", False)
 
     # API model
-    eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "stealth/space-bunny-alpha", True)
+    # eval_loop("data/opinionqa_core.csv", "data/core_k4_evidence_restructured.json", "stealth/space-bunny-alpha", True)
 
 if __name__ == "__main__":
     main()
