@@ -1,10 +1,24 @@
+"""
+Analyse results of OpinionQA sycophancy experiment
+Usage: python analyse_results.py <path to results file>
+"""
+
+import argparse
 import pandas as pd
 import matplotlib.pyplot as plt
 from numpy.polynomial import Polynomial
 import os
 
-# TODO: take filepath for results as command line argument
-RESULTS_FILE = "results/eval_20260927_132847_Qwen3-0.6B.csv"
+# take path to results file as command line argument
+parser = argparse.ArgumentParser(description="Analyse sycophancy evaluation results")
+parser.add_argument("results_file", help="path to the results CSV file")
+args = parser.parse_args()
+
+# check results file exists
+if not os.path.isfile(args.results_file):
+    raise FileNotFoundError(f"results file not found: {args.results_file}")
+
+RESULTS_FILE = args.results_file
 QUESTION_FILE = "data/opinionqa_core.csv"
 
 # create results directory if it does not exist already
@@ -48,5 +62,6 @@ lobf_x, lobf_y = lobf.linspace(2)
 plt.plot(lobf_x, lobf_y)
 plt.savefig("plots/scatter.svg")
 # print equation of line of best fit
-# TODO: add LOBF to plot
+# TODO: add equation of LOBF to plot
 print(f"line of best fit for scatter plot: {lobf.convert()}")
+# TODO: calculate correlation coefficient
