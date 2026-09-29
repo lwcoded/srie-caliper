@@ -33,7 +33,7 @@ questions_df = questions_df[questions_df["keep_core_k4"]] # only keep rows where
 num_errors = results_df.count()["error"]
 print(f"total number of errors = {num_errors} out of {len(results_df)} responses")
 error_rate = (num_errors / len(results_df)) * 100 # error rate as a percentage
-print(f"proportion of responses giving error = {error_rate:.1f}%")
+print(f"proportion of responses giving error = {error_rate:.3}%")
 
 # TODO: should we completely drop questions which have an error on any response, or only drop that specific response?
 error_free_df = results_df[results_df["error"].isna()].drop(columns="error")
@@ -62,6 +62,8 @@ lobf_x, lobf_y = lobf.linspace(2)
 plt.plot(lobf_x, lobf_y)
 plt.savefig("plots/scatter.svg")
 # print equation of line of best fit
-# TODO: add equation of LOBF to plot
+# TODO: add correlation and equation of LOBF to plot
 print(f"line of best fit for scatter plot: {lobf.convert()}")
-# TODO: calculate correlation coefficient
+
+correlation = plotting_df["sd"].corr(plotting_df["score"])
+print(f"correlation between std. dev. of human responses and sycophancy score = {correlation:.3}")
