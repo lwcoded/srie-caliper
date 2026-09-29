@@ -1,1 +1,3 @@
 results/**
+plots/**
+.ipynb_checkpoints
