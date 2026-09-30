@@ -1,6 +1,6 @@
 """
 Analyse results of OpinionQA sycophancy experiment
-Usage: python analyse_results.py <path to results file>
+Usage: python analyse_results.py <path to results file> <model name>
 """
 
 import argparse
