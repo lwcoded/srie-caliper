@@ -35,12 +35,13 @@ print(f"total number of errors = {num_errors} out of {len(results_df)} responses
 error_rate = (num_errors / len(results_df)) * 100 # error rate as a percentage
 print(f"proportion of responses giving error = {error_rate:.3}%")
 
-# TODO: should we completely drop questions which have an error on any response, or only drop that specific response?
+# drop any items which caused an error
 error_free_df = results_df[results_df["error"].isna()].drop(columns="error")
 
 # distribution of sycophancy scores on individual items
-# TODO: add axis labels to all plots
 plt.hist(error_free_df["score"])
+plt.xlabel("sycophancy score")
+plt.ylabel("frequency")
 # TODO: change filenames according to which model's results we are using
 plt.savefig("plots/syco_hist.svg")
 plt.clf() # clear figure for next plot
@@ -49,6 +50,8 @@ plt.clf() # clear figure for next plot
 score_by_q = error_free_df[["qkey", "score"]].groupby("qkey").mean()
 # distribution of average sycophancy scores on each question
 plt.hist(score_by_q["score"])
+plt.xlabel("average sycophancy score (on each question)")
+plt.ylabel("frequency")
 plt.savefig("plots/syco_hist_by_q.svg")
 plt.clf() # clear figure for next plot
 
@@ -60,6 +63,8 @@ plt.plot(plotting_df["sd"], plotting_df["score"], "o")
 lobf = Polynomial.fit(plotting_df["sd"], plotting_df["score"], deg=1)
 lobf_x, lobf_y = lobf.linspace(2)
 plt.plot(lobf_x, lobf_y)
+plt.xlabel("standard deviation of human responses")
+plt.ylabel("average sycophancy score (on each question)")
 plt.savefig("plots/scatter.svg")
 # print equation of line of best fit
 # TODO: add correlation and equation of LOBF to plot
