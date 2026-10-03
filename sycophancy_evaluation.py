@@ -54,7 +54,9 @@ def local_prompt(model, prompt, messages=None, temperature=1.0):
     ## To do: Figure out how to append model reasoning for local models in case want to look at CoT or do multi-turn conversations
     if temperature == 0.0:
         # greedy generation i.e. just pick most likely token at each step
-        outputs = llm.generate(**inputs, max_new_tokens=300)
+        # do_sample=False must be explicit: otherwise generate() inherits the model's own generation_config,
+        # and Qwen3 ships with do_sample=True (temperature 0.6, top_k 20, top_p 0.95), so this branch would sample
+        outputs = llm.generate(**inputs, max_new_tokens=300, do_sample=False)
     else:
         outputs = llm.generate(**inputs, max_new_tokens=300, do_sample=True, temperature=temperature)
 
