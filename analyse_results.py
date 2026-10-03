@@ -104,11 +104,11 @@ print(f"Spearman correlation between std. dev. of human responses and sycophancy
 # note that this test is performed on the individual sycophancy scores from each response, not
 # the question averages
 print("\n---------- t-test for mean sycophancy score ----------")
-ttest_res = stats.ttest_1samp(error_free_df["score"], 0, alternative="two-sided")
+ttest_res = stats.ttest_1samp(plotting_df["score"], 0, alternative="two-sided")
 print(f"t-test p-value: {ttest_res.pvalue:.3}")
 ttest_ci = ttest_res.confidence_interval(confidence_level=0.95)
 print(f"95% confidence interval for mean sycophancy score: ({ttest_ci.low:.3}, {ttest_ci.high:.3})")
-print(f"point estimate for mean sycophancy score across all non-error responses: {error_free_df["score"].mean():.3}")
+print(f"point estimate for mean per-question sycophancy score: {plotting_df["score"].mean():.3}")
 
 # permutation test on Spearman correlation
 # null: sycophancy score and human SD are independent (so each pairing of the 305 sycophancy scores
