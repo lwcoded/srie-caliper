@@ -30,34 +30,61 @@ def load_data(results_file):
     questions_df = questions_df[questions_df["keep_core_k4"]] # only keep rows where keep_core_k4 == True
     return results_df, questions_df
 
-def create_syco_hist(error_free_df, model_name, model_name_safe):
+def load_model(results_file):
+    # results_df: raw results, one row per response (including any which caused an error)
+    # questions_df: question metadata (including std. dev. of human responses), core questions only
+    results_df, questions_df = load_data(results_file)
+    # error_free_df: results with any items which caused an error dropped
+    error_free_df = results_df[results_df["error"].isna()].drop(columns="error")
+    # score_by_q: average sycophancy score for each question
+    score_by_q = error_free_df[["qkey", "score"]].groupby("qkey").mean()
+    # plotting_df: std. dev. of human responses and average sycophancy score for each question
+    plotting_df = pd.merge(questions_df[["qkey", "sd"]], score_by_q, on="qkey")
+    return results_df, error_free_df, score_by_q, plotting_df
+
+def create_syco_hist(error_free_df, model_name, model_name_safe, ax=None, bins=10):
     # distribution of sycophancy scores on individual items
-    plt.hist(error_free_df["score"])
-    plt.xlabel("sycophancy score")
-    plt.ylabel("frequency")
-    plt.title(model_name)
-    plt.savefig(plot_path("syco_hist.svg", model_name_safe))
-    plt.clf() # clear figure for next plot
+    # if ax is given, draw onto it and don't save (used to build combined figures)
+    standalone = ax is None
+    if standalone:
+        ax = plt.gca()
+    ax.hist(error_free_df["score"], bins=bins)
+    ax.set_xlabel("sycophancy score")
+    ax.set_ylabel("frequency")
+    ax.set_title(model_name)
+    if standalone:
+        plt.savefig(plot_path("syco_hist.svg", model_name_safe))
+        plt.clf() # clear figure for next plot
 
-def create_syco_hist_by_q(score_by_q, model_name, model_name_safe):
+def create_syco_hist_by_q(score_by_q, model_name, model_name_safe, ax=None, bins=10):
     # distribution of average sycophancy scores on each question
-    plt.hist(score_by_q["score"])
-    plt.xlabel("average sycophancy score (on each question)")
-    plt.ylabel("frequency")
-    plt.title(model_name)
-    plt.savefig(plot_path("syco_hist_by_q.svg", model_name_safe))
-    plt.clf() # clear figure for next plot
+    # if ax is given, draw onto it and don't save (used to build combined figures)
+    standalone = ax is None
+    if standalone:
+        ax = plt.gca()
+    ax.hist(score_by_q["score"], bins=bins)
+    ax.set_xlabel("average sycophancy score (on each question)")
+    ax.set_ylabel("frequency")
+    ax.set_title(model_name)
+    if standalone:
+        plt.savefig(plot_path("syco_hist_by_q.svg", model_name_safe))
+        plt.clf() # clear figure for next plot
 
-def create_scatter(plotting_df, model_name, model_name_safe):
+def create_scatter(plotting_df, model_name, model_name_safe, ax=None):
     # scatter plot of average sycophancy score vs. std. dev. of human responses
-    plt.plot(plotting_df["sd"], plotting_df["score"], "o")
+    # if ax is given, draw onto it and don't save (used to build combined figures)
+    standalone = ax is None
+    if standalone:
+        ax = plt.gca()
+    ax.plot(plotting_df["sd"], plotting_df["score"], "o")
     lobf = Polynomial.fit(plotting_df["sd"], plotting_df["score"], deg=1)
     lobf_x, lobf_y = lobf.linspace(2)
-    plt.plot(lobf_x, lobf_y)
-    plt.xlabel("standard deviation of human responses")
-    plt.ylabel("average sycophancy score (on each question)")
-    plt.title(model_name)
-    plt.savefig(plot_path("scatter.svg", model_name_safe))
+    ax.plot(lobf_x, lobf_y)
+    ax.set_xlabel("standard deviation of human responses")
+    ax.set_ylabel("average sycophancy score (on each question)")
+    ax.set_title(model_name)
+    if standalone:
+        plt.savefig(plot_path("scatter.svg", model_name_safe))
     # print equation of line of best fit
     # TODO: add correlation and equation of LOBF to plot
     print(f"line of best fit for scatter plot: {lobf.convert()}")
@@ -85,7 +112,7 @@ def main():
     if not os.path.isfile(args.results_file):
         raise FileNotFoundError(f"results file not found: {args.results_file}")
 
-    results_df, questions_df = load_data(args.results_file)
+    results_df, error_free_df, score_by_q, plotting_df = load_model(args.results_file)
 
     model_name_safe = sanitise_model_name(args.model_name)
 
@@ -95,18 +122,9 @@ def main():
     error_rate = (num_errors / len(results_df)) * 100 # error rate as a percentage
     print(f"proportion of responses giving error = {error_rate:.3}%")
 
-    # drop any items which caused an error
-    error_free_df = results_df[results_df["error"].isna()].drop(columns="error")
-
     create_syco_hist(error_free_df, args.model_name, model_name_safe)
 
-    # calculate average sycophancy score for each question
-    score_by_q = error_free_df[["qkey", "score"]].groupby("qkey").mean()
-
     create_syco_hist_by_q(score_by_q, args.model_name, model_name_safe)
-
-    # get standard deviation and sycophancy score for each question
-    plotting_df = pd.merge(questions_df[["qkey", "sd"]], score_by_q, on="qkey")
 
     create_scatter(plotting_df, args.model_name, model_name_safe)
 
