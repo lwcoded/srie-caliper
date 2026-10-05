@@ -7,7 +7,7 @@ import json
 import math
 import re
 from transformers import AutoModelForCausalLM, AutoTokenizer 
-import transformers # This module let's you download any model available on HuggingFace's website
+import transformers # This module lets you download any model available on HuggingFace's website
 transformers.logging.set_verbosity_error()
 import torch
 import functools
